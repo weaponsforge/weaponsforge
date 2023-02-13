@@ -18,8 +18,11 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 - NodeJS
 - Docker
 - SQL and NoSQL databases
-- Firebase, Amazon Web Services
+- Web3, Blockchain
+- Firebase
 
 ### GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true)
+
+
