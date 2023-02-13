@@ -24,37 +24,36 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 - Web3, Blockchain
 - Firebase
 
-**Languages and Tools:**
+**Languages and Tools**
 
-<div float="right">
-  <code><img height="20" alt="Javascript" src="icons/javascript.svg"></code>
-  <code><img height="20" alt="NodeJS" src="icons/nodejs.svg"></code>
-  <code><img height="20" alt="HTML5" src="icons/html5.svg"></code>
-  <code><img height="20" alt="CSS3" src="icons/css.svg"></code>
-  <code><img height="20" alt="C++" src="icons/cpp.svg"></code>
-  <code><img height="20" alt="PHP" src="icons/php.svg"></code>
-  <code><img height="20" alt="Unity3D" src="icons/unity3d.svg"></code><br />
-  <code><img height="20" alt="React" src="icons/react-original.svg"></code>
-  <code><img height="20" alt="Redux" src="icons/redux.svg"></code>
-  <code><img height="20" alt="Redux" src="icons/nextjs.svg"></code>
-  <code><img height="20" alt="Redux" src="icons/vue.svg"></code>
-  <code><img height="20" alt="Laravel" src="icons/laravel.svg"></code>
-  <code><img height="20" alt="Android native" src="icons/android.svg"></code>
-  <code><img height="20" alt="PostgreSQL" src="icons/postgresql.svg"></code>
-  <code><img height="20" alt="MySQL" src="icons/mysql.svg"></code>
-  <code><img height="20" alt="MongoDB" src="icons/mongodb.svg"></code>
-  <code><img height="20" alt="SQLite" src="icons/sqlite.svg"></code><br />
-  <code><img height="20" alt="Firebase" src="icons/firebase.svg"></code>
-  <code><img height="20" alt="Amazon Web Services" src="icons/aws.svg"></code>
-  <code><img height="20" alt="Heroku" src="icons/heroku.svg"></code>
-  <code><img height="20" alt="Github Pages" src="icons/gh-pages.svg"></code>
-  <code><img height="20" alt="Github Actions" src="icons/gh-actions.svg"></code>
-  <code><img height="20" alt="Bat files" src="icons/windowsterminal.svg"></code>
-  <code><img height="20" alt="Git" src="icons/git-original.svg"></code>
-  <code><img height="20" alt="Github" src="icons/github.svg"></code>
-  <code><img height="20" alt="Windows" src="icons/windows.svg"></code>
-  <code><img height="20" alt="Ubuntu" src="icons/ubuntu.svg"></code>
-</div>
+<code><img height="20" alt="Javascript" src="icons/javascript.svg"></code>
+<code><img height="20" alt="NodeJS" src="icons/nodejs.svg"></code>
+<code><img height="20" alt="HTML5" src="icons/html5.svg"></code>
+<code><img height="20" alt="CSS3" src="icons/css.svg"></code>
+<code><img height="20" alt="C++" src="icons/cpp.svg"></code>
+<code><img height="20" alt="PHP" src="icons/php.svg"></code>
+<code><img height="20" alt="Unity3D" src="icons/unity3d.svg"></code><br />
+<code><img height="20" alt="React" src="icons/react-original.svg"></code>
+<code><img height="20" alt="Redux" src="icons/redux.svg"></code>
+<code><img height="20" alt="Redux" src="icons/nextjs.svg"></code>
+<code><img height="20" alt="Redux" src="icons/vue.svg"></code>
+<code><img height="20" alt="Laravel" src="icons/laravel.svg"></code>
+<code><img height="20" alt="Android native" src="icons/android.svg"></code>
+<code><img height="20" alt="PostgreSQL" src="icons/postgresql.svg"></code>
+<code><img height="20" alt="MySQL" src="icons/mysql.svg"></code>
+<code><img height="20" alt="MongoDB" src="icons/mongodb.svg"></code>
+<code><img height="20" alt="SQLite" src="icons/sqlite.svg"></code><br />
+<code><img height="20" alt="Firebase" src="icons/firebase.svg"></code>
+<code><img height="20" alt="Amazon Web Services" src="icons/aws.svg"></code>
+<code><img height="20" alt="Heroku" src="icons/heroku.svg"></code>
+<code><img height="20" alt="Github Pages" src="icons/gh-pages.svg"></code>
+<code><img height="20" alt="Github Actions" src="icons/gh-actions.svg"></code>
+<code><img height="20" alt="Bat files" src="icons/windowsterminal.svg"></code>
+<code><img height="20" alt="Git" src="icons/git-original.svg"></code>
+<code><img height="20" alt="Github" src="icons/github.svg"></code>
+<code><img height="20" alt="Windows" src="icons/windows.svg"></code>
+<code><img height="20" alt="Ubuntu" src="icons/ubuntu.svg"></code>
+<code><img height="20" alt="Ubuntu" src="icons/virtualbox.svg"></code>
 
 <br /><br />
 
