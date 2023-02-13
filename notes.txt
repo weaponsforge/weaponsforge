@@ -1,0 +1,7 @@
+Other themes
+
+// algolia
+https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true
+
+// swift
+https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=swift&show_icons=true&count_private=true
