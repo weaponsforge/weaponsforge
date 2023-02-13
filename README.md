@@ -31,14 +31,14 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
   <code><img height="20" alt="NodeJS" src="icons/nodejs.svg"></code>
   <code><img height="20" alt="HTML5" src="icons/html5.svg"></code>
   <code><img height="20" alt="CSS3" src="icons/css.svg"></code>
+  <code><img height="20" alt="C++" src="icons/cpp.svg"></code>
+  <code><img height="20" alt="PHP" src="icons/php.svg"></code>
+  <code><img height="20" alt="Unity3D" src="icons/unity3d.svg"></code><br />
   <code><img height="20" alt="React" src="icons/react-original.svg"></code>
   <code><img height="20" alt="Redux" src="icons/redux.svg"></code>
   <code><img height="20" alt="Redux" src="icons/nextjs.svg"></code>
   <code><img height="20" alt="Redux" src="icons/vue.svg"></code>
-  <code><img height="20" alt="C++" src="icons/cpp.svg"></code>
-  <code><img height="20" alt="PHP" src="icons/php.svg"></code>
   <code><img height="20" alt="Laravel" src="icons/laravel.svg"></code>
-  <code><img height="20" alt="Unity3D" src="icons/unity3d.svg"></code>
   <code><img height="20" alt="Android native" src="icons/android.svg"></code>
   <code><img height="20" alt="PostgreSQL" src="icons/postgresql.svg"></code>
   <code><img height="20" alt="MySQL" src="icons/mysql.svg"></code>
