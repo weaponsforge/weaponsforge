@@ -1,6 +1,6 @@
 # Hi, I'm weaponsforge <img src='tesseract3.gif' width=48 height=48 />
 
-I'm a curious programmer testing, trying and experimenting all sorts of stuff.
+I'm a curious programmer who tests, tries, and experiments with all sorts of stuff.
 
 ### Research Interests
 
