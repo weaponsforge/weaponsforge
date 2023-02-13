@@ -54,6 +54,9 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 <code><img height="20" alt="Windows" src="icons/windows.svg"></code>
 <code><img height="20" alt="Ubuntu" src="icons/ubuntu.svg"></code>
 <code><img height="20" alt="Ubuntu" src="icons/virtualbox.svg"></code>
+<code><img height="20" alt="Ubuntu" src="icons/adobe-photoshop.svg"></code>
+<code><img height="20" alt="Ubuntu" src="icons/adobe-ae.svg"></code>
+<code><img height="20" alt="Ubuntu" src="icons/3dsmax.png"></code>
 
 <br /><br />
 
