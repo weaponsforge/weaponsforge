@@ -9,16 +9,20 @@ I'm a curious programmer testing, trying and experimenting all sorts of stuff.
 
 ### Topics of Interest
 
-- Web Development
-- 3D graphics, modelling, animation
-- JavaScript frameworks for front-end and backend
-- DevOps, CI/CD
-- NodeJS
-- Docker
-- Web Mapping
-- SQL and NoSQL databases
-- Firebase
-- Amazon Web Services
+<div style="font-size: 11px;">
+<ul>
+  <li>Web Development</li>
+  <li>3D graphics, modelling, animation</li>
+  <li>JavaScript frameworks for front-end and backend</li>
+  <li>DevOps, CI/CD</li>
+  <li>NodeJS</li>
+  <li>Docker</li>
+  <li>Web Mapping</li>
+  <li>SQL and NoSQL databases</li>
+  <li>Firebase</li>
+  <li>Amazon Web Services</li>
+</ul>
+</div>
 
 ### GitHub Statistics
 
