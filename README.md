@@ -46,7 +46,6 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 <code><img height="20" alt="Firebase" src="icons/firebase.svg"></code>
 <code><img height="20" alt="Amazon Web Services" src="icons/aws.svg"></code>
 <code><img height="20" alt="Heroku" src="icons/heroku.svg"></code>
-<code><img height="20" alt="Github Pages" src="icons/gh-pages.svg"></code>
 <code><img height="20" alt="Github Actions" src="icons/gh-actions.svg"></code>
 <code><img height="20" alt="Bat files" src="icons/windowsterminal.svg"></code>
 <code><img height="20" alt="Git" src="icons/git-original.svg"></code>
