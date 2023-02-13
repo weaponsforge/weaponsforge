@@ -33,6 +33,7 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
   <code><img height="20" alt="CSS3" src="icons/css.svg"></code>
   <code><img height="20" alt="React" src="icons/react-original.svg"></code>
   <code><img height="20" alt="Redux" src="icons/redux.svg"></code>
+  <code><img height="20" alt="Redux" src="icons/vue.svg"></code>
   <code><img height="20" alt="C++" src="icons/cpp.svg"></code>
   <code><img height="20" alt="PHP" src="icons/php.svg"></code>
   <code><img height="20" alt="Laravel" src="icons/laravel.svg"></code>
