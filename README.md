@@ -3,14 +3,37 @@
 I'm a curious programmer who tests, tries, and experiments with all sorts of stuff.
 
 <br />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
+
+### Research Interests
+
+- Image Analysis
+- Augmented Reality (AR)
+- Virtual Reality (VR)
+- WebGL
+
+### Topics of Interest
+
+- Web Development
+- 3D graphics, modelling, animation
+- JavaScript frameworks for front-end and backend
+- DevOps, CI/CD
+- NodeJS
+- Docker
+- SQL and NoSQL databases
+- Web3, Blockchain
+- Firebase
+
+**Languages and Tools:**
+
 <div float="right">
-  <h3>Languages and Tools</h3>
   <code><img height="20" alt="Javascript" src="icons/javascript.svg"></code>
   <code><img height="20" alt="NodeJS" src="icons/nodejs.svg"></code>
   <code><img height="20" alt="HTML5" src="icons/html5.svg"></code>
   <code><img height="20" alt="CSS3" src="icons/css.svg"></code>
   <code><img height="20" alt="React" src="icons/react-original.svg"></code>
   <code><img height="20" alt="Redux" src="icons/redux.svg"></code>
+  <code><img height="20" alt="Redux" src="icons/vue.svg"></code>
   <code><img height="20" alt="C++" src="icons/cpp.svg"></code>
   <code><img height="20" alt="PHP" src="icons/php.svg"></code>
   <code><img height="20" alt="Laravel" src="icons/laravel.svg"></code>
@@ -32,29 +55,7 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
   <code><img height="20" alt="Ubuntu" src="icons/ubuntu.svg"></code>
 </div>
 
-
-### Research Interests
-
-- Image Analysis
-- Augmented Reality (AR)
-- Virtual Reality (VR)
-- WebGL
-
-### Topics of Interest
-
-- Web Development
-- 3D graphics, modelling, animation
-- JavaScript frameworks for front-end and backend
-- DevOps, CI/CD
-- NodeJS
-- Docker
-- SQL and NoSQL databases
-- Web3, Blockchain
-- Firebase
-
-<img src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
-
-<br />
+<br /><br />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=weaponsforge.weaponsforge)
 
