@@ -4,7 +4,7 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 <br /><br /><br />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=swift&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
 
 
 ### Research Interests
