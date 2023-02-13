@@ -5,6 +5,8 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 ### Research Interests
 
 - Image Analysis
+- Augmented Reality (AR)
+- Virtual Reality (VR)
 - WebGL
 
 ### Topics of Interest
@@ -16,8 +18,7 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 - NodeJS
 - Docker
 - SQL and NoSQL databases
-- Firebase
-- Amazon Web Services
+- Firebase, Amazon Web Services
 
 ### GitHub Statistics
 
