@@ -22,11 +22,14 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://nextjs.org/"><img height="20" alt="NextJS" src="icons/nextjs.svg"></a></code>
     <code><a href="https://vuejs.org/"><img height="20" alt="VueJS" src="icons/vue.svg"></a></code>
     <code><a href="https://laravel.com/"><img height="20" alt="Laravel" src="icons/laravel.svg"></a></code>
-    <code><a href="https://developer.android.com/"><img height="20" alt="Android native" src="icons/android.svg"></a></code>
+    <code><a href="https://developer.android.com/"><img height="20" alt="Android native" src="icons/android.svg"></a></code><br />
     <code><a href="https://www.postgresql.org/"><img height="20" alt="PostgreSQL" src="icons/postgresql.svg"></a></code>
     <code><a href="https://www.mysql.com/"><img height="20" alt="MySQL" src="icons/mysql.svg"></a></code>
     <code><a href="https://www.mongodb.com/"><img height="20" alt="MongoDB" src="icons/mongodb.svg"></a></code>
-    <code><a href="https://www.sqlite.org/index.html"><img height="20" alt="SQLite" src="icons/sqlite.svg"></a></code><br />
+    <code><a href="https://www.sqlite.org/index.html"><img height="20" alt="SQLite" src="icons/sqlite.svg"></a></code>
+    <code><a href="https://www.nginx.com/"><img height="20" alt="" src="icons/nginx.svg"></a></code>
+    <code><a href="https://www.apachefriends.org/"><img height="20" alt="" src="icons/xampp.svg"></a></code>
+    <code><a href="https://httpd.apache.org/"><img height="20" alt="" src="icons/apache.svg"></a></code><br />
     <code><a href="https://firebase.google.com/"><img height="20" alt="Firebase" src="icons/firebase.svg"></a></code>
     <code><a href="https://aws.amazon.com/"><img height="20" alt="Amazon Web Services" src="icons/aws.svg"></a></code>
     <code><a href="https://www.heroku.com/"><img height="20" alt="Heroku" src="icons/heroku.svg"></a></code>
@@ -54,18 +57,8 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 
 ### Topics of Interest
 
-- Web Development
-- 3D graphics, modelling, animation
-- JavaScript frameworks for front-end and backend
-- DevOps, CI/CD
-- NodeJS
-- Docker
-- SQL and NoSQL databases
-- Web3, Blockchain
-- Firebase
-
+Web Development, JavaScript frameworks for front-end and backend, 3D graphics, modelling and animation, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
 
 <br />
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=weaponsforge.visitor-badge)
-
