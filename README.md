@@ -46,8 +46,8 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://aws.amazon.com/"><img height="20" alt="Amazon Web Services" src="icons/aws.svg"/></a></code>
     <code><a href="https://www.heroku.com/"><img height="20" alt="Heroku" src="icons/heroku.svg"/></a></code>
     <code><a href="https://azure.microsoft.com/en-us"><img height="20" alt="Microsoft Azure" src="icons/microsoft-azure.svg"/></a></code>
-    <code><a href="https://github.com/features/actions"><img height="20" alt="Github Actions" src="icons/gh-actions.svg"/></a></code>
     <code><a href="https://git-scm.com/"><img height="20" alt="Git" src="icons/git-original.svg"/></a></code>
+    <code><a href="https://github.com/features/actions"><img height="20" alt="Github Actions" src="icons/gh-actions.svg"/></a></code>
     <code><a href="https://github.com/"><img height="20" alt="Github" src="icons/github.svg"/></a></code>
     <code><a href="https://about.gitlab.com/"><img height="20" alt="Gitlab" src="icons/gitlab.svg"/></a></code><br />
     <code><a href="https://www.microsoft.com/en-ph/"><img height="20" alt="Windows" src="icons/windows.svg"/></a></code>
