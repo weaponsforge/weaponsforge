@@ -8,15 +8,15 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
 
   <p>
     <h3>Languages and Tools</h3>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="30" alt="Javascript" src="icons/javascript.svg"/></a></code>
-    <code><a href="https://nodejs.org/en/"><img height="30" alt="NodeJS" src="icons/nodejs.svg"/></a></code>
-    <code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="30" alt="HTML5" src="icons/html5.svg"></a></code>
-    <code><a href="https://en.wikipedia.org/wiki/CSS"><img height="30" alt="CSS3" src="icons/css.svg"></a></code>
-    <code><a href="https://get.webgl.org/"><img height="30" alt="WebGL" src="icons/webgl.svg"></a></code>
-    <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="30" alt="C++" src="icons/cpp.svg"></a></code>
-    <code><a href="https://www.php.net/"><img height="30" alt="PHP" src="icons/php.svg"/></a></code>
-    <code><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="30" alt="Bash scripts" src="icons/bash.svg"></a></code>
-    <code><a href="https://en.wikipedia.org/wiki/Batch_file"><img height="30" alt="Batch scripts" src="icons/windowsterminal.svg"></a></code><br />
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="35" alt="Javascript" src="icons/javascript.svg"/></a></code>
+    <code><a href="https://nodejs.org/en/"><img height="35" alt="NodeJS" src="icons/nodejs.svg"/></a></code>
+    <code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="35" alt="HTML5" src="icons/html5.svg"></a></code>
+    <code><a href="https://en.wikipedia.org/wiki/CSS"><img height="35" alt="CSS3" src="icons/css.svg"></a></code>
+    <code><a href="https://get.webgl.org/"><img height="35" alt="WebGL" src="icons/webgl.svg"></a></code>
+    <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="35" alt="C++" src="icons/cpp.svg"></a></code>
+    <code><a href="https://www.php.net/"><img height="35" alt="PHP" src="icons/php.svg"/></a></code>
+    <code><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="35" alt="Bash scripts" src="icons/bash.svg"></a></code>
+    <code><a href="https://en.wikipedia.org/wiki/Batch_file"><img height="35" alt="Batch scripts" src="icons/windowsterminal.svg"></a></code><br />
     <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="20" alt="React" src="icons/react-original.svg"/></a></code>
     <code><a href="https://redux-toolkit.js.org/"><img height="20" alt="Redux" src="icons/redux.svg"/></a></code>
     <code><a href="https://nextjs.org/"><img height="20" alt="NextJS" src="icons/nextjs.svg"/></a></code>
