@@ -15,7 +15,7 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><img height="20" alt="C++" src="icons/cpp.svg"></code>
     <code><a href="https://www.php.net/"><img height="20" alt="PHP" src="icons/php.svg"></a></code>
     <code><a href="https://unity.com/"><img height="20" alt="Unity3D" src="icons/unity3d.svg"></a></code>
-    <code><img height="20" alt="Bash scripts" src="icons/bash.svg"></code>>
+    <code><img height="20" alt="Bash scripts" src="icons/bash.svg"></code>
     <code><img height="20" alt="Bat scripts" src="icons/windowsterminal.svg"></code><br />
     <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="20" alt="React" src="icons/react-original.svg"></a></code>
     <code><a href="https://redux-toolkit.js.org/"><img height="20" alt="Redux" src="icons/redux.svg"></a></code>
