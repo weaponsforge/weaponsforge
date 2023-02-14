@@ -16,7 +16,8 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="40" alt="C++" src="icons/cpp.svg"></a></code>
     <code><a href="https://www.php.net/"><img height="40" alt="PHP" src="icons/php.svg"/></a></code>
     <code><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="40" alt="Bash scripts" src="icons/bash.svg"></a></code>
-    <code><a href="https://en.wikipedia.org/wiki/Batch_file"><img height="40" alt="Batch scripts" src="icons/windowsterminal.svg"></a></code><br />
+    <code><a href="https://en.wikipedia.org/wiki/Batch_file"><img height="40" alt="Batch scripts" src="icons/windowsterminal.svg"></a></code>
+    <code><a href="https://code.visualstudio.com/"><img height="35" alt="Visual Studio Code" src="icons/vscode.svg"/></a></code><br />
     <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="20" alt="React" src="icons/react-original.svg"/></a></code>
     <code><a href="https://redux-toolkit.js.org/"><img height="20" alt="Redux" src="icons/redux.svg"/></a></code>
     <code><a href="https://nextjs.org/"><img height="20" alt="NextJS" src="icons/nextjs.svg"/></a></code>
@@ -55,7 +56,6 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://www.microsoft.com/en-ph/"><img height="20" alt="Windows" src="icons/windows.svg"/></a></code>
     <code><a href="https://ubuntu.com/"><img height="20" alt="Ubuntu" src="icons/ubuntu.svg"/></a></code>
     <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code>
-    <code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" src="icons/vscode.svg"/></a></code>
     <code><a href="https://nodemon.io/"><img height="20" alt="Nodemon" src="icons/nodemon.svg"/></a></code>
     <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code>
     <code><a href="https://www.adobe.com/ph_en/products/aftereffects.html"><img height="20" alt="Adobe After Effects" src="icons/adobe-ae.svg"/></a></code>
