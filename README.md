@@ -12,7 +12,7 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://nodejs.org/en/"><img height="40" alt="NodeJS" src="icons/nodejs.svg"/></a></code>
     <code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="40" alt="HTML5" src="icons/html5.svg"></a></code>
     <code><a href="https://en.wikipedia.org/wiki/CSS"><img height="40" alt="CSS3" src="icons/css.svg"></a></code>
-    <code><a href="https://get.webgl.org/"><img height="40" alt="WebGL" src="icons/webgl.svg"></a></code>
+    <code><a href="https://get.webgl.org/"><img height="40" alt="WebGL" src="icons/webgl.svg"></a></code><br />
     <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="40" alt="C++" src="icons/cpp.svg"></a></code>
     <code><a href="https://www.php.net/"><img height="40" alt="PHP" src="icons/php.svg"/></a></code>
     <code><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="40" alt="Bash scripts" src="icons/bash.svg"></a></code>
