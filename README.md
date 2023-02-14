@@ -2,8 +2,8 @@
 
 I'm a curious programmer who tests, tries, and experiments with all sorts of stuff.
 
-
 <p>
+  <br />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
 
   <p>
