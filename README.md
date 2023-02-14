@@ -22,6 +22,7 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://nextjs.org/"><img height="20" alt="NextJS" src="icons/nextjs.svg"/></a></code>
     <code><a href="https://vuejs.org/"><img height="20" alt="VueJS" src="icons/vue.svg"/></a></code>
     <code><a href="https://webpack.js.org/"><img height="20" alt="Webpack" src="icons/webpack.svg"/></a></code>
+    <code><a href="https://www.electronjs.org/"><img height="20" alt="Electron" src="icons/electron.svg"/></a></code>
     <code><a href="https://codeigniter.com/"><img height="20" alt="Codeigniter" src="icons/codeigniter.svg"/></a></code>
     <code><a href="https://laravel.com/"><img height="20" alt="Laravel" src="icons/laravel.svg"/></a></code>
     <code><a href="https://unity.com/"><img height="20" alt="Unity3D" src="icons/unity3d.svg"/></a></code>
