@@ -49,10 +49,10 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://github.com/features/actions"><img height="20" alt="Github Actions" src="icons/gh-actions.svg"/></a></code>
     <code><a href="https://git-scm.com/"><img height="20" alt="Git" src="icons/git-original.svg"/></a></code>
     <code><a href="https://github.com/"><img height="20" alt="Github" src="icons/github.svg"/></a></code>
-    <code><a href="https://about.gitlab.com/"><img height="20" alt="Gitlab" src="icons/gitlab.svg"/></a></code>
+    <code><a href="https://about.gitlab.com/"><img height="20" alt="Gitlab" src="icons/gitlab.svg"/></a></code><br />
     <code><a href="https://www.microsoft.com/en-ph/"><img height="20" alt="Windows" src="icons/windows.svg"/></a></code>
     <code><a href="https://ubuntu.com/"><img height="20" alt="Ubuntu" src="icons/ubuntu.svg"/></a></code>
-    <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code><br />
+    <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code>
     <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code>
     <code><a href="https://www.adobe.com/ph_en/products/aftereffects.html"><img height="20" alt="Adobe After Effects" src="icons/adobe-ae.svg"/></a></code>
     <code><a href="https://asean.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription"><img height="20" alt="3ds Max" src="icons/3dsmax.png"/></a></code>
