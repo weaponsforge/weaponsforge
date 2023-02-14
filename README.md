@@ -12,16 +12,24 @@ I'm a curious programmer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://nodejs.org/en/"><img height="20" alt="NodeJS" src="icons/nodejs.svg"/></a></code>
     <code><img height="20" alt="HTML5" src="icons/html5.svg"></code>
     <code><img height="20" alt="CSS3" src="icons/css.svg"></code>
+    <code><a href="https://get.webgl.org/"><img height="20" alt="WebGL" src="icons/webgl.svg"></a></code>
     <code><img height="20" alt="C++" src="icons/cpp.svg"></code>
     <code><a href="https://www.php.net/"><img height="20" alt="PHP" src="icons/php.svg"/></a></code>
-    <code><a href="https://unity.com/"><img height="20" alt="Unity3D" src="icons/unity3d.svg"/></a></code>
     <code><img height="20" alt="Bash scripts" src="icons/bash.svg"></code>
     <code><img height="20" alt="Bat scripts" src="icons/windowsterminal.svg"></code><br />
     <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="20" alt="React" src="icons/react-original.svg"/></a></code>
     <code><a href="https://redux-toolkit.js.org/"><img height="20" alt="Redux" src="icons/redux.svg"/></a></code>
     <code><a href="https://nextjs.org/"><img height="20" alt="NextJS" src="icons/nextjs.svg"/></a></code>
     <code><a href="https://vuejs.org/"><img height="20" alt="VueJS" src="icons/vue.svg"/></a></code>
+    <code><a href="https://webpack.js.org/"><img height="20" alt="Webpack" src="icons/webpack.svg"/></a></code>
+    <code><a href="https://threejs.org/"><img height="20" alt="ThreeJS" src="icons/threejs.svg"/></a></code>
+    <code><a href="https://axios-http.com/"><img height="20" alt="Axios" src="icons/axios.svg"/></a></code>
+    <code><a href="https://jquery.com/"><img height="20" alt="JQuery" src="icons/jquery.svg"/></a></code>
+    <code><a href="https://leafletjs.com/"><img height="20" alt="Leaflet" src="icons/leaflet.svg"/></a></code>
+    <code><a href="https://www.mapbox.com/"><img height="20" alt="MapBox" src="icons/mapbox.svg"/></a></code>
+    <code><a href="https://codeigniter.com/"><img height="20" alt="Codeigniter" src="icons/codeigniter.svg"/></a></code>
     <code><a href="https://laravel.com/"><img height="20" alt="Laravel" src="icons/laravel.svg"/></a></code>
+    <code><a href="https://unity.com/"><img height="20" alt="Unity3D" src="icons/unity3d.svg"/></a></code>
     <code><a href="https://developer.android.com/"><img height="20" alt="Android native" src="icons/android.svg"/></a></code><br />
     <code><a href="https://www.postgresql.org/"><img height="20" alt="PostgreSQL" src="icons/postgresql.svg"/></a></code>
     <code><a href="https://www.mysql.com/"><img height="20" alt="MySQL" src="icons/mysql.svg"/></a></code>
