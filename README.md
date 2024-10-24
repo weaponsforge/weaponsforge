@@ -1,6 +1,6 @@
 # Hi, I'm weaponsforge <img src='tesseract3.gif' width=48 height=48 />
 
-I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality output over quantity.
+I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity.
 
 <p>
   <br />
