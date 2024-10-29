@@ -1,3 +1,5 @@
+[![An image of @weaponsforge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/weaponsforge)](https://holopin.io/@weaponsforge)
+
 # Hi, I'm weaponsforge <img src='tesseract3.gif' width=48 height=48 />
 
 I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity. Always learning, I love to design and create interesting things.
@@ -77,6 +79,3 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 Web Development, JavaScript frameworks for front-end and backend, 3D graphics, modelling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
 
-### Holopin Badges
-
-[![An image of @weaponsforge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/weaponsforge)](https://holopin.io/@weaponsforge)
