@@ -3,7 +3,6 @@
 I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity. Always learning, I love to design and create interesting things.
 
 <p>
-  <br />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
 
   <p>
