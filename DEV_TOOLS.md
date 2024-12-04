@@ -130,7 +130,7 @@ This page contains a list of programming languages and development tools that I'
 
 ### Software Documentation and Project Planning
 
-<code><a href="https://www.readysetpro.com/"><img height="30" alt="Ready Set" title="Ready Set" src="icons/planning.svg"/></a><sub>Ready Set</sub></code> <sub>_(This is quite dated, but most parts are still relevant to other modern planning and documentation practices.)_</sub>
+<code><a href="https://www.readysetpro.com/"><img height="30" alt="Ready Set" title="Ready Set" src="icons/planning.svg"/></a><sub>Ready Set</sub></code> <sub>_(Used in conjunction with other modern software development planning and documentation templates)_</sub>
 
 ### Others
 
