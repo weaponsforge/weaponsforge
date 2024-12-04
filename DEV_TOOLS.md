@@ -154,7 +154,7 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://github.com/features/actions"><img height="30" alt="Github Actions" title="Github Actions" src="icons/gh-actions.svg"/></a><sub><b>GitHub Actions</b></sub></code>&nbsp;
 <code><a href="https://about.gitlab.com/"><img height="30" alt="Gitlab" title="Gitlab" src="icons/gitlab.svg"/></a><sub><b>GitLab</b></sub></code>&nbsp;
 <code><a href="https://bitbucket.org/"><img height="30" alt="BitBucket" title="BitBucket" src="icons/bitbucket.svg"/></a><sub><b>BitBucket</b></sub></code>&nbsp;
-<code><a href="https://www.npmjs.com/package/hili-lipsum"><img height="30" alt="NPM Registry" title="NPM Registry" src="icons/npm-registry.svg"/></a><sub><b>NPM Registry</b></sub></code>&nbsp;
+<code><a href="https://www.npmjs.com/"><img height="30" alt="NPM Registry" title="NPM Registry" src="icons/npm-registry.svg"/></a><sub><b>NPM Registry</b></sub></code>&nbsp;
 </details><br>
 
 ### 💾 Operating Systems and Tools

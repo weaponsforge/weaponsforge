@@ -84,7 +84,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://github.com/features/actions"><img height="20" alt="Github Actions" title="Github Actions" src="icons/gh-actions.svg"/></a></code>
     <code><a href="https://about.gitlab.com/"><img height="20" alt="Gitlab" title="Gitlab" src="icons/gitlab.svg"/></a></code>
     <code><a href="https://bitbucket.org/"><img height="20" alt="BitBucket" title="BitBucket" src="icons/bitbucket.svg"/></a></code>
-    <code><a href="https://www.npmjs.com/package/hili-lipsum"><img height="20" alt="NPM Registry" title="NPM Registry" src="icons/npm-registry.svg"/></a></code>
+    <code><a href="https://www.npmjs.com/"><img height="20" alt="NPM Registry" title="NPM Registry" src="icons/npm-registry.svg"/></a></code>
     <!-- Operating Systems, tools -->
     <code><a href="https://www.microsoft.com/en-ph/"><img height="20" alt="Windows" title="Windows" src="icons/windows.svg"/></a></code>
     <code><a href="https://ubuntu.com/"><img height="20" alt="Ubuntu" title="Ubuntu" src="icons/ubuntu.svg"/></a></code>
