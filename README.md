@@ -6,7 +6,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
 
   <p>
-    <h3>Languages and Tools</h3>
+    <h3>Languages and Tools <sup><a href="DEV_TOOLS.md">[List]</a></sup></h3>
     <!-- Programming Languages -->
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="20" alt="Javascript" title="Javascript" src="icons/javascript.svg"/></a></code>
     <code><a href="https://www.typescriptlang.org/"><img height="20" alt="TypeScript" title="TypeScript" src="icons/typescript.svg"/></a></code>
@@ -35,7 +35,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://webpack.js.org/"><img height="20" alt="Webpack" title="Webpack" src="icons/webpack.svg"/></a></code>
     <!-- IDEs -->
     <code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" title="Visual Studio Code" src="icons/vscode.svg"/></a></code>
-    <code><a href="https://developer.android.com/"><img height="20" alt="Android Studio" title="Android Studio" src="icons/android.svg"/></a></code>
+    <code><a href="https://developer.android.com/"><img height="20" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a></code>
     <!-- More Libraries and Tools -->
     <code><a href="https://www.electronjs.org/"><img height="20" alt="Electron" title="Electron" src="icons/electron.svg"/></a></code>
     <code><a href="https://unity.com/"><img height="20" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a></code>
@@ -73,8 +73,9 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://aws.amazon.com/"><img height="20" alt="Amazon Web Services" title="Amazon Web Services" src="icons/aws.svg"/></a></code>
     <code><a href="https://www.heroku.com/"><img height="20" alt="Heroku" title="Heroku" src="icons/heroku.svg"/></a></code>
     <code><a href="https://vercel.com/"><img height="20" alt="Vercel" title="Vercel" src="icons/vercel.png"/></a></code>
-    <code><a href="https://render.com/"><img height="20" alt="Render" title="Render" src="icons/render.webp"/></a></code>
+    <code><a href="https://render.com/"><img height="20" alt="Render" title="Render" src="icons/render.svg"/></a></code>
     <code><a href="https://azure.microsoft.com/en-us"><img height="20" alt="Microsoft Azure" title="Microsoft Azure" src="icons/microsoft-azure.svg"/></a></code>
+    <code><a href="https://www.mongodb.com/"><img height="20" alt="MongoDB Atlas" title="MongoDB Atlas" src="icons/mongodb-atlas.svg"/></a></code>
     <!-- Version Control, repositories -->
     <code><a href="https://git-scm.com/"><img height="20" alt="Git" title="Git" src="icons/git-original.svg"/></a></code>
     <code><a href="https://tortoisesvn.net/"><img height="20" alt="Tortoise SVN" title="Tortoise SVN" src="icons/tortoise-svn.png"/></a></code>
@@ -88,6 +89,8 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://ubuntu.com/"><img height="20" alt="Ubuntu" title="Ubuntu" src="icons/ubuntu.svg"/></a></code>
     <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" title="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code>
     <code><a href="https://www.docker.com/"><img height="20" alt="Docker" title="Docker" src="icons/docker.svg"/></a></code>
+    <!-- Mobile Devices -->
+    <code><a href="https://www.android.com/"><img height="20" alt="Android" title="Android" src="icons/android.svg"/></a></code>
     <!-- Others -->
     <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code>
     <code><a href="https://www.adobe.com/ph_en/products/aftereffects.html"><img height="20" alt="Adobe After Effects" title="Adobe After Effects" src="icons/adobe-ae.svg"/></a></code>
@@ -110,7 +113,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 ### Topics of Interest
 
-Web Development, JavaScript frameworks for front-end and backend, 3D graphics, modelling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
+Software architecture analysis and design, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, modelling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
 
 ### Holopin Badges
 
