@@ -27,9 +27,12 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://redux-toolkit.js.org/"><img height="30" alt="Redux" title="Redux" src="icons/redux.svg"/></a><sub>Redux</sub></code>&nbsp;
 <code><a href="https://nextjs.org/"><img height="30" alt="NextJS" title="NextJS" src="icons/nextjs.svg"/></a><sub>NextJS</sub></code>&nbsp;
 <code><a href="https://vuejs.org/"><img height="30" alt="VueJS" title="VueJS" src="icons/vue.svg"/></a><sub>Vue</sub></code>&nbsp;
+<code><a href="https://jestjs.io/"><img height="30" alt="Jest" title="Jest" src="icons/jest.svg"/></a><sub>Jest</sub></code>&nbsp;
 <code><a href="https://codeigniter.com/"><img height="30" alt="Codeigniter" title="Codeigniter" src="icons/codeigniter.svg"/></a><sub>CodeIgniter</sub></code>&nbsp;
 <code><a href="https://laravel.com/"><img height="30" alt="Laravel" title="Laravel" src="icons/laravel.svg"/></a><sub>Laravel</sub></code>&nbsp;
 <code><a href="https://threejs.org/"><img height="30" alt="ThreeJS" title="ThreeJS" src="icons/threejs.svg"/></a><sub>ThreeJS</sub></code>&nbsp;
+<code><a href="https://jquery.com/"><img height="30" alt="JQuery" title="JQuery" src="icons/jquery.svg"/></a><sub>jQuery</sub></code>&nbsp;
+<code><a href="https://axios-http.com/"><img height="30" alt="Axios" title="Axios" src="icons/axios.svg"/></a><sub>Axios</sub></code>&nbsp;
 
 ### Development Tools
 
@@ -45,8 +48,7 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://www.electronjs.org/"><img height="30" alt="Electron" title="Electron" src="icons/electron.svg"/></a><sub>Electron</sub></code>&nbsp;
 <code><a href="https://unity.com/"><img height="30" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a><sub>Unity3D</sub></code>&nbsp;
 <code><a href="https://sequelize.org/"><img height="30" alt="Sequelize" title="Sequelize" src="icons/sequelize.svg"/></a><sub>Sequelize</sub></code>&nbsp;
-<code><a href="https://axios-http.com/"><img height="30" alt="Axios" title="Axios" src="icons/axios.svg"/></a><sub>Axios</sub></code>&nbsp;
-<code><a href="https://jquery.com/"><img height="30" alt="JQuery" title="JQuery" src="icons/jquery.svg"/></a><sub>jQuery</sub></code>&nbsp;
+<code><a href="https://filezilla-project.org/"><img height="30" alt="FileZilla" title="FileZilla" src="icons/filezilla.svg"/></a><sub>FileZilla</sub></code>&nbsp;
 
 ### File Formats/Specifications
 

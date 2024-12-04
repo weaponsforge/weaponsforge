@@ -27,9 +27,12 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://redux-toolkit.js.org/"><img height="20" alt="Redux" title="Redux" src="icons/redux.svg"/></a></code>
     <code><a href="https://nextjs.org/"><img height="20" alt="NextJS" title="NextJS" src="icons/nextjs.svg"/></a></code>
     <code><a href="https://vuejs.org/"><img height="20" alt="VueJS" title="VueJS" src="icons/vue.svg"/></a></code>
+    <code><a href="https://jestjs.io/"><img height="20" alt="Jest" title="Jest" src="icons/jest.svg"/></a></code>
     <code><a href="https://codeigniter.com/"><img height="20" alt="Codeigniter" title="Codeigniter" src="icons/codeigniter.svg"/></a></code>
     <code><a href="https://laravel.com/"><img height="20" alt="Laravel" title="Laravel" src="icons/laravel.svg"/></a></code>
     <code><a href="https://threejs.org/"><img height="20" alt="ThreeJS" title="ThreeJS" src="icons/threejs.svg"/></a></code>
+    <code><a href="https://axios-http.com/"><img height="20" alt="Axios" title="Axios" src="icons/axios.svg"/></a></code>
+    <code><a href="https://jquery.com/"><img height="20" alt="JQuery" title="JQuery" src="icons/jquery.svg"/></a></code>
     <!-- Development Tools -->
     <code><a href="https://eslint.org/"><img height="20" alt="ESLint" title="ESLint" src="icons/eslint.svg"/></a></code>
     <code><a href="https://webpack.js.org/"><img height="20" alt="Webpack" title="Webpack" src="icons/webpack.svg"/></a></code>
@@ -40,13 +43,6 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://www.electronjs.org/"><img height="20" alt="Electron" title="Electron" src="icons/electron.svg"/></a></code>
     <code><a href="https://unity.com/"><img height="20" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a></code>
     <code><a href="https://sequelize.org/"><img height="20" alt="Sequelize" title="Sequelize" src="icons/sequelize.svg"/></a></code>
-    <code><a href="https://axios-http.com/"><img height="20" alt="Axios" title="Axios" src="icons/axios.svg"/></a></code>
-    <code><a href="https://jquery.com/"><img height="20" alt="JQuery" title="JQuery" src="icons/jquery.svg"/></a></code>
-    <!-- File formats/specs -->
-    <code><a href="https://spec.openapis.org/oas/latest.html"><img height="20" alt="OpenAPI" title="OpenAPI" src="icons/openapi.svg"/></a></code>
-    <code><a href="https://www.json.org/json-en.html"><img height="20" alt="JSON" title="JSON" src="icons/json.svg"/></a></code>
-    <code><a href="https://en.wikipedia.org/wiki/GeoJSON"><img height="20" title="GeoJSON" alt="GeoJSON" src="icons/geojson.svg"/></a></code>
-    <code><a href="https://en.wikipedia.org/wiki/Shapefile"><img height="20" title="Shapefile" alt="Shapefile" src="icons/shapefile.svg"/></a></code>
     <!-- Web Mapping Libraries -->
     <code><a href="https://leafletjs.com/"><img height="20" alt="Leaflet" title="Leaflet" src="icons/leaflet.svg"/></a></code>
     <code><a href="https://www.mapbox.com/"><img height="20" alt="MapBox" title="MapBox" src="icons/mapbox.svg"/></a></code>
@@ -91,12 +87,12 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <!-- Operating Systems, tools -->
     <code><a href="https://www.microsoft.com/en-ph/"><img height="20" alt="Windows" title="Windows" src="icons/windows.svg"/></a></code>
     <code><a href="https://ubuntu.com/"><img height="20" alt="Ubuntu" title="Ubuntu" src="icons/ubuntu.svg"/></a></code>
-    <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" title="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code><br>
+    <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" title="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code>
     <code><a href="https://www.docker.com/"><img height="20" alt="Docker" title="Docker" src="icons/docker.svg"/></a></code>
     <!-- Mobile Devices -->
     <code><a href="https://www.android.com/"><img height="20" alt="Android" title="Android" src="icons/android.svg"/></a></code>
     <!-- Others -->
-    <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code>
+    <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code><br>
     <code><a href="https://www.adobe.com/ph_en/products/aftereffects.html"><img height="20" alt="Adobe After Effects" title="Adobe After Effects" src="icons/adobe-ae.svg"/></a></code>
     <code><a href="https://asean.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription"><img height="20" title="3DS Max" alt="3DS Max" src="icons/3dsmax.png"/></a></code>
   </p>
