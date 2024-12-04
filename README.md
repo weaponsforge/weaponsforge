@@ -102,7 +102,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
   </p>
 </p>
 
-### My Current Stack
+### My Key Technologies / Current Stack
 
 | <b>M</b> | <b>E</b> | <b>R</b> | <b>N</b> |  |
 | :---: | :---: | :---: | :---: | :---: |
@@ -118,6 +118,11 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 ### Topics of Interest
 
 Software architecture analysis and design, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, 3D modelling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
+
+### Active Goals
+
+- Building custom software as tools for personal use and sharing them with people having similar needs
+- Learning the capabilities of modern/generative AI for providing more robust and creative solutions for solving problems
 
 ### Holopin Badges
 
