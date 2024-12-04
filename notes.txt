@@ -7,4 +7,6 @@ https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&s
 https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=swift&show_icons=true&count_private=true
 
 // simple svg icons
+https://www.svgrepo.com/
+https://techicons.dev/
 https://simpleicons.org/
