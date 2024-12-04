@@ -77,6 +77,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://render.com/"><img height="20" alt="Render" title="Render" src="icons/render.svg"/></a></code>
     <code><a href="https://azure.microsoft.com/en-us"><img height="20" alt="Microsoft Azure" title="Microsoft Azure" src="icons/microsoft-azure.svg"/></a></code>
     <code><a href="https://www.mongodb.com/"><img height="20" alt="MongoDB Atlas" title="MongoDB Atlas" src="icons/mongodb-atlas.svg"/></a></code>
+    <code><a href="https://stripe.com/"><img height="20" alt="Stripe" title="Stripe" src="icons/stripe.svg"/></a></code>
     <!-- DNS -->
     <code><a href="https://letsencrypt.org/"><img height="20" alt="Let's Encrypt" title="Let's Encrypt" src="icons/lets-encrypt.svg"/></a></code>
     <!-- Version Control, repositories -->

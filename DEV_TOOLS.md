@@ -94,6 +94,7 @@ A list of programming languages and development tools that I've used over the ye
 <code><a href="https://render.com/"><img height="30" alt="Render" title="Render" src="icons/render.svg"/></a><sub>Render</sub></code>&nbsp;
 <code><a href="https://azure.microsoft.com/en-us"><img height="30" alt="Microsoft Azure" title="Microsoft Azure" src="icons/microsoft-azure.svg"/></a><sub>Microsoft Azure</sub></code>&nbsp;
 <code><a href="https://www.mongodb.com/"><img height="30" alt="MongoDB Atlas" title="MongoDB Atlas" src="icons/mongodb-atlas.svg"/></a><sub>MongoDB Atlas</sub></code>&nbsp;
+<code><a href="https://stripe.com/"><img height="20" alt="Stripe" title="Stripe" src="icons/stripe.svg"/></a><sub>Stripe</sub></code>&nbsp;
 
 ### Domain Name System (DNS)
 
