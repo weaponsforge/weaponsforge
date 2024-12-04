@@ -8,7 +8,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
   <p>
     <h3>Languages and Tools</h3>
     <!-- Programming Languages -->
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="20" alt="Javascript" src="icons/javascript.svg"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="20" alt="Javascript" title="Javascript" src="icons/javascript.svg"/></a></code>
     <code><a href="https://www.typescriptlang.org/"><img height="20" alt="TypeScript" src="icons/typescript.svg"/></a></code>
     <code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="20" width="24" alt="HTML5" src="icons/html5.svg"></a></code>
     <code><a href="https://en.wikipedia.org/wiki/CSS"><img height="20" alt="CSS3" src="icons/css.svg"></a></code>
