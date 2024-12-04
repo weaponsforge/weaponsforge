@@ -2,6 +2,28 @@
 
 This page contains a list of programming languages and development tools that I've used throughout the years.
 
+- [🔠 Programming Languages](#[programming-languages)
+- [🖥️ Scripting](#scripting)
+- [📚 Frameworks and Libraries](#frameworks-and-libraries)
+- [🛠️ Development Tools](#development-tools)
+- [📝 Integrated Development Editors (IDEs)](#integrated-development-editors-ides)
+- [🧰 Other Libraries and Tools](#other-libraries-and-tools)
+- [📄 File Formats/Specifications](#file-formats-specifications)
+- [🌐 Web Mapping](#web-mapping)
+- [🎨 CSS Styling Libraries](#css-styling-libraries)
+- [🏗️ Backend](#backend)
+- [🛢️ Databases](#databases)
+- [📦 Cloud](#cloud)
+- [🌎 Domain Name System (DNS)](#domain-name-system-dns)
+- [📂 Version Control and Public Repositories](#version-control-and-public-repositories)
+- [💾 Operating Systems and Tools](#operating-systems-and-tools)
+- [📱 Mobile Devices](#mobile-devices)
+- [📊 Diagraming Tools](#diagraming-tools)
+- [📐 Software Documentation and Project Planning](#software-documentation-and-project-planning)
+- [💡 Others](#others)
+
+<br>
+
 ### 🔠 Programming Languages
 <details>
 <summary>Click to expand</summary>
@@ -58,7 +80,7 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://developer.android.com/"><img height="30" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a><sub><b>Android Studio</b></sub></code>&nbsp;
 </details><br>
 
-### 🧰 More Libraries and Tools
+### 🧰 Other Libraries and Tools
 
 <details>
 <summary>Click to expand</summary>
