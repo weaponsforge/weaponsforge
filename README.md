@@ -2,8 +2,6 @@
 
 I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity. Always learning, I love to design and create interesting things.
 
-<br />
-
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
 
@@ -19,7 +17,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://www.php.net/"><img height="20" alt="PHP" src="icons/php.svg"/></a></code>
     <code><a href="https://www.mongodb.com/"><img height="20" alt="MongoDB" src="icons/mongodb.svg"/></a></code>
     <code><a href="https://www.postgresql.org/"><img height="20" alt="PostgreSQL" src="icons/postgresql.svg"/></a></code>
-    <code><a href="https://www.typescriptlang.org/"><img height="20" alt="TypeScript" src="icons/typescript.svg"/></a></code><br />
+    <code><a href="https://www.typescriptlang.org/"><img height="20" alt="TypeScript" src="icons/typescript.svg"/></a></code>
     <!-- Scripting Libraries, Frameworks, Tools -->
     <code><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="20" alt="Bash scripts" src="icons/bash.svg"></a></code>
     <code><a href="https://en.wikipedia.org/wiki/Batch_file"><img height="20" alt="Batch scripts" src="icons/windowsterminal.svg"></a></code>
@@ -30,7 +28,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://eslint.org/"><img height="20" alt="Webpack" src="icons/eslint.svg"/></a></code>
     <code><a href="https://webpack.js.org/"><img height="20" alt="Webpack" src="icons/webpack.svg"/></a></code>
     <code><a href="https://codeigniter.com/"><img height="20" alt="Codeigniter" src="icons/codeigniter.svg"/></a></code>
-    <code><a href="https://laravel.com/"><img height="20" alt="Laravel" src="icons/laravel.svg"/></a></code><br />
+    <code><a href="https://laravel.com/"><img height="20" alt="Laravel" src="icons/laravel.svg"/></a></code>
     <!-- More Libraries and Tools -->
     <code><a href="https://www.electronjs.org/"><img height="20" alt="Electron" src="icons/electron.svg"/></a></code>
     <code><a href="https://unity.com/"><img height="20" alt="Unity3D" src="icons/unity3d.svg"/></a></code>
