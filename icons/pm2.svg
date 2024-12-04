@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>pm2</title>
+	<defs>
+		<image  width="31" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAWCAMAAAAPf7fDAAAAAXNSR0IB2cksfwAAAGBQTFRFAAAAINLuINLuINLvINPvINPvINPvINPvINPvINDuINPvINLvIM/vINLvINPvINPvINLvZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmINHuINLvINPvINPvs5sZbQAAACB0Uk5TAA0UN7rTlf+kBIuXAiGRrScIHZS5d/+HosklDwguxZ7vBQEpAAAAiElEQVR4nK3RQQuCQBQE4Jm0wEWzFCEo//8Ps4IOVoYkEcu2dJ/nxXf9YN7OW4KEmhDAxHTPjWbEbDpveEoWRv7knkSuA5IR1vb/C2Y9X0v8xvzK7H9nY/a/zXplHDCsrsTeSX8/Fuh/ukg8nsH2VUofRs/tx0g/9Pb/R9+Ven/adERWS+8n/AAgXSNEOfyGhwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="1" y="5"/>
+</svg>

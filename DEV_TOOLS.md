@@ -72,6 +72,7 @@ A list of programming languages and development tools that I've used over the ye
 <code><a href="https://nodejs.org/en/"><img height="30" alt="NodeJS" title="NodeJS" src="icons/nodejs2.svg"/></a><sub>Node</sub></code>&nbsp;
 <code><a href="https://expressjs.com/"><img height="30" alt="ExpressJS" title="ExpressJS" src="icons/express.svg"/></a><sub>Express</sub></code>&nbsp;
 <code><a href="https://www.nginx.com/"><img height="30" alt="Nginx" title="Nginx" src="icons/nginx.svg"/></a><sub>Nginx</sub></code>&nbsp;
+<code><a href="https://pm2.io/"><img height="20" alt="PM2" title="PM2" src="icons/pm2.svg"/></a><sub>PM2</sub></code>&nbsp;
 <code><a href="https://www.apachefriends.org/"><img height="30" alt="XAMPP" title="XAMPP" src="icons/xampp.svg"/></a><sub>Xampp</sub></code>&nbsp;
 <code><a href="https://httpd.apache.org/"><img height="30" alt="Apache" title="Apache" src="icons/apache.svg"/></a><sub>Apache</sub></code>&nbsp;
 <code><a href="https://geoserver.org/"><img height="30" alt="Geoserver" title="Geoserver" src="icons/geoserver.ico"/></a><sub>GeoServer</sub></code>&nbsp;
@@ -93,6 +94,11 @@ A list of programming languages and development tools that I've used over the ye
 <code><a href="https://render.com/"><img height="30" alt="Render" title="Render" src="icons/render.svg"/></a><sub>Render</sub></code>&nbsp;
 <code><a href="https://azure.microsoft.com/en-us"><img height="30" alt="Microsoft Azure" title="Microsoft Azure" src="icons/microsoft-azure.svg"/></a><sub>Microsoft Azure</sub></code>&nbsp;
 <code><a href="https://www.mongodb.com/"><img height="30" alt="MongoDB Atlas" title="MongoDB Atlas" src="icons/mongodb-atlas.svg"/></a><sub>MongoDB Atlas</sub></code>&nbsp;
+
+### Domain Name System (DNS)
+
+<code><a href="https://aws.amazon.com/route53/"><img height="30" alt="AWS Route 53" title="AWS Route 53" src="icons/aws-route53.svg"/></a><sub>AWS Route 53</sub></code>&nbsp;
+<code><a href="https://letsencrypt.org/"><img height="30" alt="Let's Encrypt" title="Let's Encrypt" src="icons/lets-encrypt.svg"/></a><sub>Let's Encrypt</sub></code>&nbsp;
 
 ### Version Control and Public Repositories
 

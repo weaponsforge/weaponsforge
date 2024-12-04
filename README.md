@@ -59,6 +59,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://nodejs.org/en/"><img height="20" alt="NodeJS" title="NodeJS" src="icons/nodejs2.svg"/></a></code>
     <code><a href="https://expressjs.com/"><img height="20" alt="ExpressJS" title="ExpressJS" src="icons/express.svg"/></a></code>
     <code><a href="https://www.nginx.com/"><img height="20" alt="Nginx" title="Nginx" src="icons/nginx.svg"/></a></code>
+    <code><a href="https://pm2.io/"><img height="20" alt="PM2" title="PM2" src="icons/pm2.svg"/></a></code>
     <code><a href="https://www.apachefriends.org/"><img height="20" alt="XAMPP" title="XAMPP" src="icons/xampp.svg"/></a></code>
     <code><a href="https://httpd.apache.org/"><img height="20" alt="Apache" title="Apache" src="icons/apache.svg"/></a></code>
     <code><a href="https://geoserver.org/"><img height="20" alt="Geoserver" title="Geoserver" src="icons/geoserver.ico"/></a></code>
@@ -76,6 +77,8 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://render.com/"><img height="20" alt="Render" title="Render" src="icons/render.svg"/></a></code>
     <code><a href="https://azure.microsoft.com/en-us"><img height="20" alt="Microsoft Azure" title="Microsoft Azure" src="icons/microsoft-azure.svg"/></a></code>
     <code><a href="https://www.mongodb.com/"><img height="20" alt="MongoDB Atlas" title="MongoDB Atlas" src="icons/mongodb-atlas.svg"/></a></code>
+    <!-- DNS -->
+    <code><a href="https://letsencrypt.org/"><img height="20" alt="Let's Encrypt" title="Let's Encrypt" src="icons/lets-encrypt.svg"/></a></code>
     <!-- Version Control, repositories -->
     <code><a href="https://git-scm.com/"><img height="20" alt="Git" title="Git" src="icons/git-original.svg"/></a></code>
     <code><a href="https://tortoisesvn.net/"><img height="20" alt="Tortoise SVN" title="Tortoise SVN" src="icons/tortoise-svn.png"/></a></code>
