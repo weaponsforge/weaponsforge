@@ -128,6 +128,10 @@ A list of programming languages and development tools that I've used over the ye
 <code><a href="https://excalidraw.com/"><img height="30" alt="Excalidraw" title="Excalidraw" src="icons/excalidraw.svg"/></a><sub>Excalidraw</sub></code>&nbsp;
 <code><a href="https://sourceforge.net/projects/dia-installer/"><img height="30" alt="Dia" title="Dia" src="icons/dia.svg"/></a><sub>Dia</sub></code>
 
+### Software Documentation and Project Planning
+
+<code><a href="https://www.readysetpro.com/"><img height="30" alt="Ready Set" title="Ready Set" src="icons/planning.svg"/></a><sub>Ready Set</sub></code> <sub>_(This is quite dated, but most parts are still relevant to other modern planning and documentation practices.)_</sub>
+
 ### Others
 
 <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="30" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a><sub>Adobe Photoshop</sub></code>&nbsp;

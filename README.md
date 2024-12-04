@@ -91,8 +91,8 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <!-- Operating Systems, tools -->
     <code><a href="https://www.microsoft.com/en-ph/"><img height="20" alt="Windows" title="Windows" src="icons/windows.svg"/></a></code>
     <code><a href="https://ubuntu.com/"><img height="20" alt="Ubuntu" title="Ubuntu" src="icons/ubuntu.svg"/></a></code>
-    <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" title="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code>
-    <code><a href="https://www.docker.com/"><img height="20" alt="Docker" title="Docker" src="icons/docker.svg"/></a></code><br>
+    <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" title="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code><br>
+    <code><a href="https://www.docker.com/"><img height="20" alt="Docker" title="Docker" src="icons/docker.svg"/></a></code>
     <!-- Mobile Devices -->
     <code><a href="https://www.android.com/"><img height="20" alt="Android" title="Android" src="icons/android.svg"/></a></code>
     <!-- Others -->
