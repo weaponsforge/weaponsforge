@@ -17,7 +17,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://www.php.net/"><img height="20" alt="PHP" title="PHP" src="icons/php.svg"/></a></code>
     <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="20" alt="C++" title="C++" src="icons/cpp.svg"></a></code>
     <code><a href="https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022"><img height="20" alt="C#" title="C#" src="icons/c-sharp.svg"/></a></code>
-    <code><a href="https://www.r-project.org/"><img height="20" alt="C++" src="icons/r.svg"></a></code>
+    <code><a href="https://www.r-project.org/"><img height="20" alt="R" title="R" src="icons/r.svg"></a></code>
     <code><a href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation"><img height="20" alt="Visual Basic 6" title="Visual Basic 6" src="icons/visual-basic.svg"/></a></code>
     <!-- Scripting -->
     <code><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="20" alt="Bash scripts" title="Bash scripts" src="icons/bash.svg"></a></code>
