@@ -55,7 +55,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://mui.com/material-ui/"><img height="20" alt="Material UI" src="icons/material-ui.svg"/></a></code>
     <code><a href="https://tailwindcss.com/"><img height="20" alt="Tailwind CSS" src="icons/tailwind-css.svg"/></a></code>
     <!-- Backend -->
-    <code><a href="https://nodejs.org/en/"><img height="20" alt="NodeJS" src="icons/nodejs.svg"/></a></code>
+    <code><a href="https://nodejs.org/en/"><img height="20" alt="NodeJS" src="icons/nodejs2.svg"/></a></code>
     <code><a href="https://expressjs.com/"><img height="20" alt="ExpressJS" src="icons/express.svg"/></a></code>
     <code><a href="https://www.nginx.com/"><img height="20" alt="Nginx" src="icons/nginx.svg"/></a></code>
     <code><a href="https://www.apachefriends.org/"><img height="20" alt="XAMPP" src="icons/xampp.svg"/></a></code>
@@ -98,7 +98,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 | <b>M</b> | <b>E</b> | <b>R</b> | <b>N</b> |  |
 | :---: | :---: | :---: | :---: | :---: |
-| <code><a href="https://www.mongodb.com/"><img height="40" alt="MongoDB" src="icons/mongodb.svg"/></a></code> <br><sub>MongoDB</sub> | <code><a href="https://expressjs.com/"><img height="40" alt="ExpressJS" src="icons/express.svg"/></a></code> <br><sub>Express</sub> | <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="40" alt="React" src="icons/react-original.svg"/></a></code> <br><sub>React/NextJS</sub> | <code><a href="https://nodejs.org/en/"><img height="40" alt="NodeJS" src="icons/nodejs.svg"/></a></code> <br><sub>Node</sub> | <code><a href="https://firebase.google.com/"><img height="40" alt="Firebase" src="icons/firebase.svg"/></a></code> <br><sub>Firebase</sub> |
+| <code><a href="https://www.mongodb.com/"><img height="40" alt="MongoDB" src="icons/mongodb.svg"/></a></code> <br><sub>MongoDB</sub> | <code><a href="https://expressjs.com/"><img height="40" alt="ExpressJS" src="icons/express.svg"/></a></code> <br><sub>Express</sub> | <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="40" alt="React" src="icons/react-original.svg"/></a></code> <br><sub>React/NextJS</sub> | <code><a href="https://nodejs.org/en/"><img height="40" alt="NodeJS" src="icons/nodejs2.svg"/></a></code> <br><sub>Node</sub> | <code><a href="https://firebase.google.com/"><img height="40" alt="Firebase" src="icons/firebase.svg"/></a></code> <br><sub>Firebase</sub> |
 
 ### Research Interests
 
