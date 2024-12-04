@@ -36,7 +36,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://unity.com/"><img height="20" alt="Unity3D" src="icons/unity3d.svg"/></a></code>
     <code><a href="https://sequelize.org/"><img height="20" alt="Sequelize" src="icons/sequelize.svg"/></a></code>
     <code><a href="https://developer.android.com/"><img height="20" alt="Android native" src="icons/android.svg"/></a></code>
-    <code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" src="icons/vscode.svg"/></a></code><br />
+    <code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" src="icons/vscode.svg"/></a></code>
     <code><a href="https://threejs.org/"><img height="20" alt="ThreeJS" src="icons/threejs.svg"/></a></code>
     <code><a href="https://axios-http.com/"><img height="20" alt="Axios" src="icons/axios.svg"/></a></code>
     <code><a href="https://jquery.com/"><img height="20" alt="JQuery" src="icons/jquery.svg"/></a></code>
