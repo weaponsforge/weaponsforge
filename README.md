@@ -2,11 +2,12 @@
 
 I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity. Always learning, I love to design and create interesting things.
 
+### Languages and Tools <sup><a href="DEV_TOOLS.md">🌟 Full List 🌟</a>
+
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
 
   <p>
-    <h3>Languages and Tools <sup><a href="DEV_TOOLS.md">🌟 Full List 🌟</a></sup></h3>
     <!-- Programming Languages -->
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="20" alt="Javascript" title="Javascript" src="icons/javascript.svg"/></a></code>
     <code><a href="https://www.typescriptlang.org/"><img height="20" alt="TypeScript" title="TypeScript" src="icons/typescript.svg"/></a></code>
