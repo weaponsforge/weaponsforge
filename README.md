@@ -6,7 +6,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
 
   <p>
-    <h3>Languages and Tools <sup><a href="DEV_TOOLS.md">[List]</a></sup></h3>
+    <h3>Languages and Tools <sup><a href="DEV_TOOLS.md">[Full List ✨]</a></sup></h3>
     <!-- Programming Languages -->
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="20" alt="Javascript" title="Javascript" src="icons/javascript.svg"/></a></code>
     <code><a href="https://www.typescriptlang.org/"><img height="20" alt="TypeScript" title="TypeScript" src="icons/typescript.svg"/></a></code>
@@ -34,7 +34,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://eslint.org/"><img height="20" alt="ESLint" title="ESLint" src="icons/eslint.svg"/></a></code>
     <code><a href="https://webpack.js.org/"><img height="20" alt="Webpack" title="Webpack" src="icons/webpack.svg"/></a></code>
     <!-- IDEs -->
-    <code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" title="Visual Studio Code" src="icons/vscode.svg"/></a></code>
+    <code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" title="Visual Studio Code (Cursor)" src="icons/vscode.svg"/></a></code>
     <code><a href="https://developer.android.com/"><img height="20" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a></code>
     <!-- More Libraries and Tools -->
     <code><a href="https://www.electronjs.org/"><img height="20" alt="Electron" title="Electron" src="icons/electron.svg"/></a></code>
@@ -117,7 +117,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 ### Topics of Interest
 
-Software architecture analysis and design, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, modelling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
+Software architecture analysis and design, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, 3D modelling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
 
 ### Holopin Badges
 

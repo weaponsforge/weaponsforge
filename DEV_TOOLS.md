@@ -1,6 +1,6 @@
 ## Development Programming Languages and Tools
 
-A list of programming languages and development tools that I've used over the years.
+This page contains a list of programming languages and development tools that I've used throughout the years.
 
 ### Programming Languages
 
