@@ -45,7 +45,7 @@ This page contains a list of programming languages and development tools that I'
 ### 🎨 Frontend
 
 <details>
-<summary>Click to expand list of CSS styling libraries</summary>
+<summary>Click to expand list of markup and CSS styling libraries</summary>
 <code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="30" width="34" alt="HTML5" title="HTML5" src="icons/html5.svg"></a><sub><b>HTML5</b></sub></code>&nbsp;
 <code><a href="https://en.wikipedia.org/wiki/CSS"><img height="30" alt="CSS3" title="CSS3" src="icons/css.svg"></a><sub><b>CSS3</b></sub></code>&nbsp;
 <code><a href="https://getbootstrap.com/"><img height="30" alt="Bootstrap" title="Bootstrap" src="icons/bootstrap.svg"/></a><sub><b>Bootstrap</b></sub></code>&nbsp;
