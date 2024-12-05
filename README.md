@@ -40,6 +40,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <!-- IDEs -->
     <code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" title="Visual Studio Code (Cursor)" src="icons/vscode.svg"/></a></code>
     <code><a href="https://developer.android.com/"><img height="20" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a></code>
+    <code><a href="https://www.svgrepo.com/vectors/microsoft/multicolor/"><img height="20" alt="Microsoft Visual Studio" title="Microsoft Visual Studio" src="icons/microsoft-visual-studio.svg"/></a></code>
     <!-- Other Libraries and Tools -->
     <code><a href="https://www.electronjs.org/"><img height="20" alt="Electron" title="Electron" src="icons/electron.svg"/></a></code>
     <code><a href="https://unity.com/"><img height="20" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a></code>
