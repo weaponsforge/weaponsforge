@@ -9,8 +9,6 @@ This page contains a list of programming languages and development tools that I'
 <summary>Click to expand list of programming languages</summary>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="30" alt="Javascript" title="Javascript" src="icons/javascript.svg"/></a><sub><b>JavaScript</b></sub></code>&nbsp;
 <code><a href="https://www.typescriptlang.org/"><img height="30" alt="TypeScript" title="TypeScript" src="icons/typescript.svg"/></a><sub><b>TypeScript</b></sub></code>&nbsp;
-<code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="30" width="34" alt="HTML5" title="HTML5" src="icons/html5.svg"></a><sub><b>HTML5</b></sub></code>&nbsp;
-<code><a href="https://en.wikipedia.org/wiki/CSS"><img height="30" alt="CSS3" title="CSS3" src="icons/css.svg"></a><sub><b>CSS3</b></sub></code>&nbsp;
 <code><a href="https://get.webgl.org/"><img height="30" alt="WebGL" title="WebGL" src="icons/webgl.svg"></a><sub><b>WebGL</b></sub></code>&nbsp;
 <code><a href="https://www.java.com/en/"><img height="30" alt="Java" title="Java" src="icons/java.svg"/></a><sub><b>Java</b></sub></code>&nbsp;
 <code><a href="https://www.php.net/"><img height="30" alt="PHP" title="PHP" src="icons/php.svg"/></a><sub><b>PHP</b></sub></code>&nbsp;
@@ -44,55 +42,12 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://axios-http.com/"><img height="30" alt="Axios" title="Axios" src="icons/axios.svg"/></a><sub><b>Axios</b></sub></code>&nbsp;
 </details><br>
 
-### 🛠️ Development Tools
-
-<details>
-<summary>Click to expand list of development tools</summary>
-<code><a href="https://eslint.org/"><img height="30" alt="ESLint" title="ESLint" src="icons/eslint.svg"/></a><sub><b>ESLint</b></sub></code>&nbsp;
-<code><a href="https://webpack.js.org/"><img height="30" alt="Webpack" title="Webpack" src="icons/webpack.svg"/></a><sub><b>Webpack</b></sub></code>&nbsp;
-</details><br>
-
-### 📝 Integrated Development Editors (IDEs)
-
-<details>
-<summary>Click to expand list of integrated development editors (IDEs)</summary>
-<code><a href="https://code.visualstudio.com/"><img height="30" alt="Visual Studio Code" title="Visual Studio Code" src="icons/vscode.svg"/></a><sub><b>VSCode/Cursor</b></sub></code>&nbsp;
-<code><a href="https://developer.android.com/"><img height="30" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a><sub><b>Android Studio</b></sub></code>&nbsp;
-</details><br>
-
-### 🧰 Other Libraries and Tools
-
-<details>
-<summary>Click to expand list of other ibraries and tools</summary>
-<code><a href="https://www.electronjs.org/"><img height="30" alt="Electron" title="Electron" src="icons/electron.svg"/></a><sub><b>Electron</b></sub></code>&nbsp;
-<code><a href="https://unity.com/"><img height="30" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a><sub><b>Unity3D</b></sub></code>&nbsp;
-<code><a href="https://sequelize.org/"><img height="30" alt="Sequelize" title="Sequelize" src="icons/sequelize.svg"/></a><sub><b>Sequelize</b></sub></code>&nbsp;
-<code><a href="https://filezilla-project.org/"><img height="30" alt="FileZilla" title="FileZilla" src="icons/filezilla.svg"/></a><sub><b>FileZilla</b></sub></code>&nbsp;
-</details><br>
-
-### 📄 File Formats/Specifications
-
-<details>
-<summary>Click to expand list of file formats/specifications</summary>
-<code><a href="https://spec.openapis.org/oas/latest.html"><img height="30" alt="OpenAPI" title="OpenAPI" src="icons/openapi.svg"/></a><sub><b>OpenAPI</b></sub></code>&nbsp;
-<code><a href="https://www.json.org/json-en.html"><img height="30" alt="JSON" title="JSON" src="icons/json.svg"/></a><sub><b>JSON</b></sub></code>&nbsp;
-<code><a href="https://en.wikipedia.org/wiki/GeoJSON"><img height="30" title="GeoJSON" alt="GeoJSON" src="icons/geojson.svg"/></a><sub><b>GeoJSON</b></sub></code>&nbsp;
-<code><a href="https://en.wikipedia.org/wiki/Shapefile"><img height="30" title="Shapefile" alt="Shapefile" src="icons/shapefile.svg"/></a><sub><b>Shapefile</b></sub></code>&nbsp;
-</details><br>
-
-### 🌐 Web Mapping
-
-<details>
-<summary>Click to expand list of web mapping libraries and tools</summary>
-<code><a href="https://leafletjs.com/"><img height="30" alt="Leaflet" title="Leaflet" src="icons/leaflet.svg"/></a><sub><b>LeafletJS</b></sub></code>&nbsp;
-<code><a href="https://www.mapbox.com/"><img height="30" alt="MapBox" title="MapBox" src="icons/mapbox.svg"/></a><sub><b>MapBox</b></sub></code>&nbsp;
-<code><a href="https://qgis.org/en/site/"><img height="30" alt="QGIS" title="QGIS" src="icons/qgis.svg"/></a><sub><b>QGIS</b></sub></code>&nbsp;
-</details><br>
-
-### 🎨 CSS Styling Libraries
+### 🎨 Frontend
 
 <details>
 <summary>Click to expand list of CSS styling libraries</summary>
+<code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="30" width="34" alt="HTML5" title="HTML5" src="icons/html5.svg"></a><sub><b>HTML5</b></sub></code>&nbsp;
+<code><a href="https://en.wikipedia.org/wiki/CSS"><img height="30" alt="CSS3" title="CSS3" src="icons/css.svg"></a><sub><b>CSS3</b></sub></code>&nbsp;
 <code><a href="https://getbootstrap.com/"><img height="30" alt="Bootstrap" title="Bootstrap" src="icons/bootstrap.svg"/></a><sub><b>Bootstrap</b></sub></code>&nbsp;
 <code><a href="https://mui.com/material-ui/"><img height="30" alt="Material UI" title="Material UI" src="icons/material-ui.svg"/></a><sub><b>Material UI</b></sub></code>&nbsp;
 <code><a href="https://tailwindcss.com/"><img height="30" alt="Tailwind CSS" title="Tailwind CSS" src="icons/tailwind-css.svg"/></a><sub><b>Tailwind CSS</b></sub></code>&nbsp;
@@ -144,6 +99,39 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://letsencrypt.org/"><img height="30" alt="Let's Encrypt" title="Let's Encrypt" src="icons/lets-encrypt.svg"/></a><sub><b>Let's Encrypt</b></sub></code>&nbsp;
 </details><br>
 
+### 🌐 Web Mapping
+
+<details>
+<summary>Click to expand list of web mapping libraries and tools</summary>
+<code><a href="https://leafletjs.com/"><img height="30" alt="Leaflet" title="Leaflet" src="icons/leaflet.svg"/></a><sub><b>LeafletJS</b></sub></code>&nbsp;
+<code><a href="https://www.mapbox.com/"><img height="30" alt="MapBox" title="MapBox" src="icons/mapbox.svg"/></a><sub><b>MapBox</b></sub></code>&nbsp;
+<code><a href="https://qgis.org/en/site/"><img height="30" alt="QGIS" title="QGIS" src="icons/qgis.svg"/></a><sub><b>QGIS</b></sub></code>&nbsp;
+</details><br>
+
+### 📱 Mobile Devices
+
+<details>
+<summary>Click to expand list of mobile devices</summary>
+<code><a href="https://www.android.com/"><img height="30" alt="Android" title="Android" src="icons/android.svg"/></a><sub><b>Android</b></sub></code>&nbsp;
+</details><br>
+
+### 🛠️ Development Tools
+
+<details>
+<summary>Click to expand list of development tools</summary>
+<code><a href="https://eslint.org/"><img height="30" alt="ESLint" title="ESLint" src="icons/eslint.svg"/></a><sub><b>ESLint</b></sub></code>&nbsp;
+<code><a href="https://webpack.js.org/"><img height="30" alt="Webpack" title="Webpack" src="icons/webpack.svg"/></a><sub><b>Webpack</b></sub></code>&nbsp;
+</details><br>
+
+### 📝 Integrated Development Editors (IDEs)
+
+<details>
+<summary>Click to expand list of integrated development editors (IDEs)</summary>
+<code><a href="https://code.visualstudio.com/"><img height="30" alt="Visual Studio Code" title="Visual Studio Code" src="icons/vscode.svg"/></a><sub><b>VSCode/Cursor</b></sub></code>&nbsp;
+<code><a href="https://developer.android.com/"><img height="30" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a><sub><b>Android Studio</b></sub></code>&nbsp;
+<code><a href="https://www.svgrepo.com/vectors/microsoft/multicolor/"><img height="30" alt="Microsoft Visual Studio" title="Microsoft Visual Studio" src="icons/microsoft-visual-studio.svg"/></a><sub><b>Microsoft Visual Studio</b></sub></code>&nbsp;
+</details><br>
+
 ### 📂 Version Control and Public Repositories
 
 <details>
@@ -167,11 +155,24 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://www.docker.com/"><img height="30" alt="Docker" title="Docker" src="icons/docker.svg"/></a><sub><b>Docker</b></sub></code>&nbsp;
 </details><br>
 
-### 📱 Mobile Devices
+### 🧰 Other Libraries and Tools
 
 <details>
-<summary>Click to expand list of mobile devices</summary>
-<code><a href="https://www.android.com/"><img height="30" alt="Android" title="Android" src="icons/android.svg"/></a><sub><b>Android</b></sub></code>&nbsp;
+<summary>Click to expand list of other ibraries and tools</summary>
+<code><a href="https://www.electronjs.org/"><img height="30" alt="Electron" title="Electron" src="icons/electron.svg"/></a><sub><b>Electron</b></sub></code>&nbsp;
+<code><a href="https://unity.com/"><img height="30" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a><sub><b>Unity3D</b></sub></code>&nbsp;
+<code><a href="https://sequelize.org/"><img height="30" alt="Sequelize" title="Sequelize" src="icons/sequelize.svg"/></a><sub><b>Sequelize</b></sub></code>&nbsp;
+<code><a href="https://filezilla-project.org/"><img height="30" alt="FileZilla" title="FileZilla" src="icons/filezilla.svg"/></a><sub><b>FileZilla</b></sub></code>&nbsp;
+</details><br>
+
+### 📄 File Formats/Specifications
+
+<details>
+<summary>Click to expand list of file formats/specifications</summary>
+<code><a href="https://spec.openapis.org/oas/latest.html"><img height="30" alt="OpenAPI" title="OpenAPI" src="icons/openapi.svg"/></a><sub><b>OpenAPI</b></sub></code>&nbsp;
+<code><a href="https://www.json.org/json-en.html"><img height="30" alt="JSON" title="JSON" src="icons/json.svg"/></a><sub><b>JSON</b></sub></code>&nbsp;
+<code><a href="https://en.wikipedia.org/wiki/GeoJSON"><img height="30" title="GeoJSON" alt="GeoJSON" src="icons/geojson.svg"/></a><sub><b>GeoJSON</b></sub></code>&nbsp;
+<code><a href="https://en.wikipedia.org/wiki/Shapefile"><img height="30" title="Shapefile" alt="Shapefile" src="icons/shapefile.svg"/></a><sub><b>Shapefile</b></sub></code>&nbsp;
 </details><br>
 
 ### 📊 Diagraming Tools
