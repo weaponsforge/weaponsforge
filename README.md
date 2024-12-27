@@ -96,7 +96,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <!-- Mobile Devices -->
     <code><a href="https://www.android.com/"><img height="20" alt="Android" title="Android" src="icons/android.svg"/></a></code>
     <!-- Others -->
-    <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code><br>
+    <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code>
     <code><a href="https://www.adobe.com/ph_en/products/aftereffects.html"><img height="20" alt="Adobe After Effects" title="Adobe After Effects" src="icons/adobe-ae.svg"/></a></code>
     <code><a href="https://asean.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription"><img height="20" title="3DS Max" alt="3DS Max" src="icons/3dsmax.png"/></a></code>
   </p>
