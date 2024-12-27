@@ -41,9 +41,11 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" title="Visual Studio Code (Cursor)" src="icons/vscode.svg"/></a></code>
     <code><a href="https://developer.android.com/"><img height="20" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a></code>
     <code><a href="https://www.svgrepo.com/vectors/microsoft/multicolor/"><img height="20" alt="Microsoft Visual Studio" title="Microsoft Visual Studio" src="icons/microsoft-visual-studio.svg"/></a></code>
+    <!-- Games -->
+    <code><a href="https://unity.com/"><img height="20" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a></code>
+    <code><a href="https://gamemaker.io/"><img height="20" alt="GameMaker (GM 7-8)" title="GameMaker (GM 7-8)" src="icons/gamemaker.svg"/></a></code>
     <!-- Other Libraries and Tools -->
     <code><a href="https://www.electronjs.org/"><img height="20" alt="Electron" title="Electron" src="icons/electron.svg"/></a></code>
-    <code><a href="https://unity.com/"><img height="20" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a></code>
     <code><a href="https://sequelize.org/"><img height="20" alt="Sequelize" title="Sequelize" src="icons/sequelize.svg"/></a></code>
     <!-- Web Mapping Libraries -->
     <code><a href="https://leafletjs.com/"><img height="20" alt="Leaflet" title="Leaflet" src="icons/leaflet.svg"/></a></code>
@@ -92,9 +94,9 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://www.virtualbox.org/"><img height="20" alt="Oracle Virtual Box" title="Oracle Virtual Box" src="icons/virtualbox.svg"/></a></code>
     <code><a href="https://www.docker.com/"><img height="20" alt="Docker" title="Docker" src="icons/docker.svg"/></a></code>
     <!-- Mobile Devices -->
-    <code><a href="https://www.android.com/"><img height="20" alt="Android" title="Android" src="icons/android.svg"/></a></code><br>
+    <code><a href="https://www.android.com/"><img height="20" alt="Android" title="Android" src="icons/android.svg"/></a></code>
     <!-- Others -->
-    <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code>
+    <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code><br>
     <code><a href="https://www.adobe.com/ph_en/products/aftereffects.html"><img height="20" alt="Adobe After Effects" title="Adobe After Effects" src="icons/adobe-ae.svg"/></a></code>
     <code><a href="https://asean.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription"><img height="20" title="3DS Max" alt="3DS Max" src="icons/3dsmax.png"/></a></code>
   </p>
