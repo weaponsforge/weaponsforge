@@ -170,7 +170,6 @@ This page contains a list of programming languages and development tools that I'
 <details>
 <summary>Click to expand list of other ibraries and tools</summary>
 <code><a href="https://www.electronjs.org/"><img height="30" alt="Electron" title="Electron" src="icons/electron.svg"/></a><sub><b>Electron</b></sub></code>&nbsp;
-<code><a href="https://unity.com/"><img height="30" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a><sub><b>Unity3D</b></sub></code>&nbsp;
 <code><a href="https://sequelize.org/"><img height="30" alt="Sequelize" title="Sequelize" src="icons/sequelize.svg"/></a><sub><b>Sequelize</b></sub></code>&nbsp;
 <code><a href="https://filezilla-project.org/"><img height="30" alt="FileZilla" title="FileZilla" src="icons/filezilla.svg"/></a><sub><b>FileZilla</b></sub></code>&nbsp;
 </details><br>
