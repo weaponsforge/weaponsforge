@@ -63,7 +63,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://pm2.io/"><img height="20" alt="PM2" title="PM2" src="icons/pm2.svg"/></a></code>
     <code><a href="https://www.apachefriends.org/"><img height="20" alt="XAMPP" title="XAMPP" src="icons/xampp.svg"/></a></code>
     <code><a href="https://httpd.apache.org/"><img height="20" alt="Apache" title="Apache" src="icons/apache.svg"/></a></code>
-    <code><a href="https://geoserver.org/"><img height="20" alt="Geoserver" title="Geoserver" src="icons/geoserver.ico"/></a></code>
+    <code><a href="https://geoserver.org/"><img height="20" alt="Geoserver" title="Geoserver" src="icons/geoserver.svg"/></a></code>
     <code><a href="https://nodemon.io/"><img height="20" alt="Nodemon" title="Nodemon" src="icons/nodemon.svg"/></a></code>
     <!-- Databases -->
     <code><a href="https://www.mongodb.com/"><img height="20" alt="MongoDB" title="MongoDB" src="icons/mongodb.svg"/></a></code>
@@ -83,7 +83,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://letsencrypt.org/"><img height="20" alt="Let's Encrypt" title="Let's Encrypt" src="icons/lets-encrypt.svg"/></a></code>
     <!-- Version Control, repositories -->
     <code><a href="https://git-scm.com/"><img height="20" alt="Git" title="Git" src="icons/git-original.svg"/></a></code>
-    <code><a href="https://tortoisesvn.net/"><img height="20" alt="Tortoise SVN" title="Tortoise SVN" src="icons/tortoise-svn.png"/></a></code>
+    <code><a href="https://tortoisesvn.net/"><img height="20" alt="Tortoise SVN" title="Tortoise SVN" src="icons/tortoise-svn.svg"/></a></code>
     <code><a href="https://github.com/"><img height="20" alt="Github" title="Github" src="icons/github.svg"/></a></code>
     <code><a href="https://github.com/features/actions"><img height="20" alt="Github Actions" title="Github Actions" src="icons/gh-actions.svg"/></a></code>
     <code><a href="https://about.gitlab.com/"><img height="20" alt="Gitlab" title="Gitlab" src="icons/gitlab.svg"/></a></code>
@@ -99,7 +99,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <!-- Others -->
     <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="20" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a></code>
     <code><a href="https://www.adobe.com/ph_en/products/aftereffects.html"><img height="20" alt="Adobe After Effects" title="Adobe After Effects" src="icons/adobe-ae.svg"/></a></code>
-    <code><a href="https://asean.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription"><img height="20" title="3DS Max" alt="3DS Max" src="icons/3dsmax.png"/></a></code>
+    <code><a href="https://asean.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription"><img height="20" title="3DS Max" alt="3DS Max" src="icons/3dsmax.svg"/></a></code>
   </p>
 </p>
 

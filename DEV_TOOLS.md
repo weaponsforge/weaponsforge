@@ -64,7 +64,7 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://pm2.io/"><img height="20" alt="PM2" title="PM2" src="icons/pm2.svg"/></a><sub><b>PM2</b></sub></code>&nbsp;
 <code><a href="https://www.apachefriends.org/"><img height="30" alt="XAMPP" title="XAMPP" src="icons/xampp.svg"/></a><sub><b>Xampp</b></sub></code>&nbsp;
 <code><a href="https://httpd.apache.org/"><img height="30" alt="Apache" title="Apache" src="icons/apache.svg"/></a><sub><b>Apache</b></sub></code>&nbsp;
-<code><a href="https://geoserver.org/"><img height="30" alt="Geoserver" title="Geoserver" src="icons/geoserver.ico"/></a><sub><b>GeoServer</b></sub></code>&nbsp;
+<code><a href="https://geoserver.org/"><img height="30" alt="Geoserver" title="Geoserver" src="icons/geoserver.svg"/></a><sub><b>GeoServer</b></sub></code>&nbsp;
 <code><a href="https://nodemon.io/"><img height="30" alt="Nodemon" title="Nodemon" src="icons/nodemon.svg"/></a><sub><b>Nodemon</b></sub></code>&nbsp;
 </details><br>
 
@@ -148,7 +148,7 @@ This page contains a list of programming languages and development tools that I'
 <details>
 <summary>Click to expand list of tools for version control and public repositories</summary>
 <code><a href="https://git-scm.com/"><img height="30" alt="Git" title="Git" src="icons/git-original.svg"/></a><sub><b>Git</b></sub></code>&nbsp;
-<code><a href="https://tortoisesvn.net/"><img height="30" alt="Tortoise SVN" title="Tortoise SVN" src="icons/tortoise-svn.png"/></a><sub><b>Tortoise SVN</b></sub></code>&nbsp;
+<code><a href="https://tortoisesvn.net/"><img height="30" alt="Tortoise SVN" title="Tortoise SVN" src="icons/tortoise-svn.svg"/></a><sub><b>Tortoise SVN</b></sub></code>&nbsp;
 <code><a href="https://github.com/"><img height="30" alt="Github" title="Github" src="icons/github.svg"/></a><sub><b>GitHub</b></sub></code>&nbsp;
 <code><a href="https://github.com/features/actions"><img height="30" alt="Github Actions" title="Github Actions" src="icons/gh-actions.svg"/></a><sub><b>GitHub Actions</b></sub></code>&nbsp;
 <code><a href="https://about.gitlab.com/"><img height="30" alt="Gitlab" title="Gitlab" src="icons/gitlab.svg"/></a><sub><b>GitLab</b></sub></code>&nbsp;
@@ -207,5 +207,5 @@ This page contains a list of programming languages and development tools that I'
 <summary>Click to expand list of other tools</summary>
 <code><a href="https://www.adobe.com/ph_en/products/photoshop.html"><img height="30" alt="Adobe Photoshop" title="Adobe Photoshop" src="icons/adobe-photoshop.svg"/></a><sub><b>Adobe Photoshop</b></sub></code>&nbsp;
 <code><a href="https://www.adobe.com/ph_en/products/aftereffects.html"><img height="30" alt="Adobe After Effects" title="Adobe After Effects" src="icons/adobe-ae.svg"/></a><sub><b>Adobe After Effects</b></sub></code>&nbsp;
-<code><a href="https://asean.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription"><img height="30" title="3DS Max" alt="3DS Max" src="icons/3dsmax.png"/></a><sub><b>3DS Max</b></sub></code>&nbsp;
+<code><a href="https://asean.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription"><img height="30" title="3DS Max" alt="3DS Max" src="icons/3dsmax.svg"/></a><sub><b>3DS Max</b></sub></code>&nbsp;
 </details><br>
