@@ -119,11 +119,13 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://gamemaker.io/"><img height="30" alt="GameMaker (GM 7-8)" title="GameMaker (GM 7-8)" src="icons/gamemaker.svg"/></a><sub><b>GameMaker</b></sub></code>&nbsp;
 </details><br>
 
-### 📱 Mobile Devices
+### 📱 Mobile App Development
 
 <details>
-<summary>Click to expand list of mobile devices</summary>
+<summary>Click to expand list of mobile device and development tools</summary>
 <code><a href="https://www.android.com/"><img height="30" alt="Android" title="Android" src="icons/android.svg"/></a><sub><b>Android</b></sub></code>&nbsp;
+<code><a href="https://developer.android.com/"><img height="30" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a><sub><b>Android Studio</b></sub></code>&nbsp;
+<code><a href="https://www.java.com/en/"><img height="30" alt="Java" title="Java" src="icons/java.svg"/></a><sub><b>Java</b></sub></code>&nbsp;
 </details><br>
 
 ### 🛠️ Development Tools
@@ -139,7 +141,6 @@ This page contains a list of programming languages and development tools that I'
 <details>
 <summary>Click to expand list of integrated development editors (IDEs)</summary>
 <code><a href="https://code.visualstudio.com/"><img height="30" alt="Visual Studio Code" title="Visual Studio Code" src="icons/vscode.svg"/></a><sub><b>VSCode/Cursor</b></sub></code>&nbsp;
-<code><a href="https://developer.android.com/"><img height="30" alt="Android Studio" title="Android Studio" src="icons/android-studio.svg"/></a><sub><b>Android Studio</b></sub></code>&nbsp;
 <code><a href="https://www.svgrepo.com/vectors/microsoft/multicolor/"><img height="30" alt="Microsoft Visual Studio" title="Microsoft Visual Studio" src="icons/microsoft-visual-studio.svg"/></a><sub><b>Microsoft Visual Studio</b></sub></code>&nbsp;
 </details><br>
 
