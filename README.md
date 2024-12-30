@@ -16,6 +16,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://get.webgl.org/"><img height="20" alt="WebGL" title="WebGL" src="icons/webgl.svg"></a></code>
     <code><a href="https://www.java.com/en/"><img height="20" alt="Java" title="Java" src="icons/java.svg"/></a></code>
     <code><a href="https://www.php.net/"><img height="20" alt="PHP" title="PHP" src="icons/php.svg"/></a></code>
+    <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="20" alt="C" title="C" src="icons/c.svg"></a></code>
     <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="20" alt="C++" title="C++" src="icons/cpp.svg"></a></code>
     <code><a href="https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022"><img height="20" alt="C#" title="C#" src="icons/c-sharp.svg"/></a></code>
     <code><a href="https://www.r-project.org/"><img height="20" alt="R" title="R" src="icons/r.svg"></a></code>
@@ -117,7 +118,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 ### Topics of Interest
 
-Software architecture analysis and design, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, 3D modelling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
+**Software architecture analysis and design**, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, 3D modelling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
 
 ### Active Goals
 

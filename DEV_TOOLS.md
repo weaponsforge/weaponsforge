@@ -12,6 +12,7 @@ This page contains a list of programming languages and development tools that I'
 <code><a href="https://get.webgl.org/"><img height="30" alt="WebGL" title="WebGL" src="icons/webgl.svg"></a><sub><b>WebGL</b></sub></code>&nbsp;
 <code><a href="https://www.java.com/en/"><img height="30" alt="Java" title="Java" src="icons/java.svg"/></a><sub><b>Java</b></sub></code>&nbsp;
 <code><a href="https://www.php.net/"><img height="30" alt="PHP" title="PHP" src="icons/php.svg"/></a><sub><b>PHP</b></sub></code>&nbsp;
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="30" alt="C" title="C" src="icons/c.svg"></a><sub><b>C</b></sub></code>&nbsp;
 <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="30" alt="C++" title="C++" src="icons/cpp.svg"></a><sub><b>C++</b></sub></code>&nbsp;
 <code><a href="https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022"><img height="30" alt="C#" title="C#" src="icons/c-sharp.svg"/></a><sub><b>C#</b></sub></code>&nbsp;
 <code><a href="https://www.r-project.org/"><img height="30" alt="R" title="R" src="icons/r.svg"></a><sub><b>R</b></sub></code>&nbsp;
