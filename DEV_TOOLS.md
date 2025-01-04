@@ -113,9 +113,11 @@ This page contains a list of programming languages and development tools that I'
 
 <details>
 <summary>Click to expand list of game development tools</summary>
-<code><a href="https://unity.com/"><img height="30" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a><sub><b>Unity3D</b></sub></code>&nbsp;
+<code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="30" alt="C++" title="C++" src="icons/cpp.svg"></a><sub><b>C++</b></sub></code>&nbsp;
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="30" alt="Javascript" title="Javascript" src="icons/javascript.svg"/></a><sub><b>JavaScript</b></sub></code>&nbsp;
 <code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="30" width="34" alt="HTML5" title="HTML5" src="icons/html5.svg"></a><sub><b>HTML5</b></sub></code>&nbsp;
+<code><a href="https://get.webgl.org/"><img height="30" alt="WebGL" title="WebGL" src="icons/webgl.svg"></a><sub><b>WebGL</b></sub></code>&nbsp;
+<code><a href="https://unity.com/"><img height="30" alt="Unity3D" title="Unity3D" src="icons/unity3d.svg"/></a><sub><b>Unity3D</b></sub></code>&nbsp;
 <code><a href="https://gamemaker.io/"><img height="30" alt="GameMaker (GM 7-8)" title="GameMaker (GM 7-8)" src="icons/gamemaker.svg"/></a><sub><b>GameMaker</b></sub></code>&nbsp;
 </details><br>
 
