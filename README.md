@@ -122,7 +122,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 ### Active Goals
 
-- Building custom software as tools for personal use and sharing them with people having similar needs
+- Building secure, scalable custom software as tools for personal use and sharing them with people having similar needs
 - Learning the capabilities of modern/generative AI for providing more robust and creative solutions for solving problems
 
 ### Holopin Badges
