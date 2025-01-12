@@ -25,7 +25,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
     <code><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="20" alt="Bash scripts" title="Bash scripts" src="icons/bash.svg"></a></code>
     <code><a href="https://en.wikipedia.org/wiki/Batch_file"><img height="20" alt="Batch scripts" title="Batch scripts" src="icons/windowsterminal.svg"></a></code>
     <!-- Frameworks and Libraries -->
-    <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="20" alt="React" title="React" src="icons/react-anim.svg"/></a></code>
+    <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="20" alt="React" title="React" src="icons/react-original.svg"/></a></code>
     <code><a href="https://redux-toolkit.js.org/"><img height="20" alt="Redux" title="Redux" src="icons/redux.svg"/></a></code>
     <code><a href="https://nextjs.org/"><img height="20" alt="NextJS" title="NextJS" src="icons/nextjs.svg"/></a></code>
     <code><a href="https://vuejs.org/"><img height="20" alt="VueJS" title="VueJS" src="icons/vue.svg"/></a></code>

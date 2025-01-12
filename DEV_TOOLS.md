@@ -31,7 +31,7 @@ This page contains a list of programming languages and development tools that I'
 
 <details>
 <summary>Click to expand list of frameworks and libraries</summary>
-<code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="30" alt="React" title="React" src="icons/react-anim.svg"/></a><sub><b>React</b></sub></code>&nbsp;
+<code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="30" alt="React" title="React" src="icons/react-original.svg"/></a><sub><b>React</b></sub></code>&nbsp;
 <code><a href="https://redux-toolkit.js.org/"><img height="30" alt="Redux" title="Redux" src="icons/redux.svg"/></a><sub><b>Redux</b></sub></code>&nbsp;
 <code><a href="https://nextjs.org/"><img height="30" alt="NextJS" title="NextJS" src="icons/nextjs.svg"/></a><sub><b>NextJS</b></sub></code>&nbsp;
 <code><a href="https://vuejs.org/"><img height="30" alt="VueJS" title="VueJS" src="icons/vue.svg"/></a><sub><b>Vue</b></sub></code>&nbsp;
