@@ -2,7 +2,7 @@
 
 I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity. Always learning, I love to design and create interesting things.
 
-![Full-Stack](https://img.shields.io/badge/Full-Stack-e84513?style=for-the-badge)
+![Full-Stack](https://img.shields.io/badge/Full-Stack-f57c00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node-199900?style=for-the-badge)
@@ -123,7 +123,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 ### Topics of Interest
 
-**Software architecture analysis and design**, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, 3D modeling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
+![Software architecture analysis and design](https://img.shields.io/badge/Software%20architecture%20analysis%20and%20design-f57c00?style=for-the-badge), Web Development, JavaScript frameworks for front-end and backend, 3D graphics, 3D modeling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
 
 ### Active Goals
 
