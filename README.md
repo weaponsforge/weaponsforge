@@ -2,10 +2,9 @@
 
 I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity. Always learning, I love to design and create interesting things.
 
-
-![Full-Stack](https://img.shields.io/badge/Full-Stack-3178c6?style=for-the-badge)
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node-199900?style=for-the-badge)
 
 ### Languages and Tools <sup><a href="DEV_TOOLS.md">🌟 <u>Full List</u> 🌟</a>
 
@@ -112,7 +111,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 | <b>M</b> | <b>E</b> | <b>R</b> | <b>N</b> |  |
 | :---: | :---: | :---: | :---: | :---: |
-| <code><a href="https://www.mongodb.com/"><img height="40" width="40" alt="MongoDB" src="icons/mongodb.svg"/></a></code> <br><sub>![MongoDB](https://img.shields.io/badge/MongoDB-199900)</sub> | <code><a href="https://expressjs.com/"><img height="40" width="40" alt="ExpressJS" src="icons/express.svg"/></a></code> <br><sub>![Express](https://img.shields.io/badge/Express-1c1b1b)</sub> | <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="40" width="40" alt="React" src="icons/react-anim.svg"/></a></code> <br><sub>![React/NextJS](https://img.shields.io/badge/React/NextJS-61dafb)</sub> | <code><a href="https://nodejs.org/en/"><img height="40" width="40" alt="NodeJS" src="icons/nodejs2.svg"/></a></code> <br><sub>![Node](https://img.shields.io/badge/Node-79b362)</sub> | <code><a href="https://firebase.google.com/"><img height="40" width="40" alt="Firebase" src="icons/firebase.svg"/></a></code> <br><sub>![Firebase](https://img.shields.io/badge/Firebase-ffb700)</sub> |
+| <code><a href="https://www.mongodb.com/"><img height="40" width="40" alt="MongoDB" src="icons/mongodb.svg"/></a></code> <br><sub>MongoDB</sub> | <code><a href="https://expressjs.com/"><img height="40" width="40" alt="ExpressJS" src="icons/express.svg"/></a></code> <br><sub>Express</sub> | <code><a href="https://reactjs.org/docs/create-a-new-react-app.html"><img height="40" width="40" alt="React" src="icons/react-anim.svg"/></a></code> <br><sub>React/NextJS</sub> | <code><a href="https://nodejs.org/en/"><img height="40" width="40" alt="NodeJS" src="icons/nodejs2.svg"/></a></code> <br><sub>Node</sub> | <code><a href="https://firebase.google.com/"><img height="40" width="40" alt="Firebase" src="icons/firebase.svg"/></a></code> <br><sub>Firebase</sub> |
 
 ### Research Interests
 
