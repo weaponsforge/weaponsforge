@@ -2,6 +2,7 @@
 
 I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity. Always learning, I love to design and create interesting things.
 
+![Full-Stack](https://img.shields.io/badge/Full-Stack-e84513?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node-199900?style=for-the-badge)
