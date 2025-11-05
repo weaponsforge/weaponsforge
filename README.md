@@ -132,4 +132,4 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 ### Holopin Badges
 
-
+<img src="https://holopin.me/weaponsforge" />
