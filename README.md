@@ -10,7 +10,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 ### Languages and Tools <sup><a href="DEV_TOOLS.md">🌟 <u>Full List</u> 🌟</a>
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
+  <img align="right" src="https://gh-readme-stats-rho.vercel.app/api?username=weaponsforge&theme=algolia&show_icons=true&count_private=true" />
 
   <p>
     <!-- Programming Languages -->
