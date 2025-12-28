@@ -1,6 +1,6 @@
 # Hi, I'm weaponsforge <img src='tesseract3.gif' width=48 height=48 />
 
-I’m a software engineer focused on designing and building **reliable, end-to-end systems**.
+I'm a full-stack software engineer focused on designing and building **reliable, end-to-end systems**.
 
 My work typically involves owning a system from development through deployment—making sure it works correctly, scales responsibly, and remains easy to maintain over time.
 
