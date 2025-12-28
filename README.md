@@ -1,6 +1,12 @@
 # Hi, I'm weaponsforge <img src='tesseract3.gif' width=48 height=48 />
 
-I'm a polyglot developer who tests, tries, and experiments with all sorts of stuff, prioritizing quality over quantity. Always learning, I love to design and create interesting things.
+I’m a software engineer focused on designing and building **reliable, end-to-end systems**.
+
+My work typically involves owning a system from development through deployment—making sure it works correctly, scales responsibly, and remains easy to maintain over time.
+
+I care more about **shipping solutions that don't become problems later**. I contribute to open source and side projects as a way to explore better workflows, automation, and developer experience.
+
+Outside of work, I enjoy exploring tooling, automation, and publishing systems that make knowledge easier to share.
 
 ![Full-Stack](https://img.shields.io/badge/Full-Stack-f57c00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
@@ -123,7 +129,7 @@ I'm a polyglot developer who tests, tries, and experiments with all sorts of stu
 
 ### Topics of Interest
 
-**SOFTWARE ARCHITECTURE ANALYSIS AND DESIGN**, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, 3D modeling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Web3, Blockchain, Firebase
+**SOFTWARE ARCHITECTURE ANALYSIS AND DESIGN**, Web Development, JavaScript frameworks for front-end and backend, 3D graphics, 3D modeling and animation, Web Mapping, DevOps, CI/CD, NodeJS, Docker, SQL and NoSQL databases, Firebase
 
 ### Active Goals
 
