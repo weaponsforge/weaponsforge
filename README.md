@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer focused on designing and building **reliable, end-to-end systems**.
 
-My work typically involves owning a system from development through deployment—making sure it works correctly, scales responsibly, and remains easy to maintain over time.
+My work typically involves owning a system from planning, design and development through deployment—making sure it works correctly, scales responsibly, and remains easy to maintain over time.
 
 I care more about **shipping solutions that don't become problems later**. I contribute to open source and side projects as a way to explore better workflows, automation, and developer experience.
 
